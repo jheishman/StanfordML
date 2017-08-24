@@ -1,0 +1,6744 @@
+g =
+
+   0.96135
+   0.93743
+   0.92330
+   0.81031
+   0.77481
+   0.69743
+   0.67738
+   0.65538
+   0.67380
+   0.68263
+   0.73995
+   0.80023
+   0.89470
+   0.94522
+   0.98390
+   0.96808
+   0.92822
+   0.98129
+   0.93201
+   0.85624
+   0.82090
+   0.71857
+   0.65630
+   0.63586
+   0.65546
+   0.68887
+   0.77199
+   0.86877
+   0.87090
+   0.94940
+   0.99382
+   0.96920
+   0.91017
+   0.81348
+   0.74390
+   0.68798
+   0.66064
+   0.68852
+   0.71452
+   0.71520
+   0.75974
+   0.83544
+   0.91365
+   0.86619
+   0.95486
+   0.95799
+   0.99618
+   0.93513
+   0.99271
+   0.98701
+   0.93498
+   0.83931
+   0.88272
+   0.78326
+   0.73132
+   0.70878
+   0.69136
+   0.66600
+   0.99895
+   0.99132
+   0.97258
+   0.99866
+   0.99943
+   0.99632
+   0.99876
+   0.99974
+   0.99642
+   0.99882
+   0.99726
+   0.98755
+   0.98753
+   0.96776
+   0.94686
+   0.92797
+   0.80560
+   0.78585
+   0.78850
+   0.72779
+   0.70241
+   0.66705
+   0.68029
+   0.64863
+   0.62559
+   0.63964
+   0.63791
+   0.65912
+   0.70272
+   0.85599
+   0.90371
+   0.98381
+   0.97399
+   0.88481
+   0.98444
+   0.99699
+   0.99811
+   0.99989
+   0.99999
+   0.99863
+   0.99999
+   0.99996
+   0.99907
+   0.99992
+   0.65021
+   0.63074
+   0.65401
+   0.62879
+   0.64698
+   0.67520
+   0.64643
+   0.63304
+   0.62121
+   0.64675
+   0.71138
+   0.78268
+   0.77634
+   0.99279
+   0.99904
+   0.92663
+
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.017741
+
+Cost at test theta (with lambda = 10): 0.242079
+
+Cost at test theta (with lambda = 10): 0.000910
+
+Cost at test theta (with lambda = 10): 0.012411
+
+Cost at test theta (with lambda = 10): 0.169349
+
+Cost at test theta (with lambda = 10): 0.000047
+
+Cost at test theta (with lambda = 10): 0.000636
+
+Cost at test theta (with lambda = 10): 0.008682
+
+Cost at test theta (with lambda = 10): 0.118470
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.000033
+
+Cost at test theta (with lambda = 10): 0.000445
+
+Cost at test theta (with lambda = 10): 0.006074
+
+Cost at test theta (with lambda = 10): 0.082877
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.000023
+
+Cost at test theta (with lambda = 10): 0.000311
+
+Cost at test theta (with lambda = 10): 0.004249
+
+Cost at test theta (with lambda = 10): 0.057977
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): 0.000016
+
+Cost at test theta (with lambda = 10): 0.000218
+
+Cost at test theta (with lambda = 10): 0.002972
+
+Cost at test theta (with lambda = 10): 0.040559
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.032093
+
+Cost at test theta (with lambda = 10): 0.237020
+
+Cost at test theta (with lambda = 10): 0.002976
+
+Cost at test theta (with lambda = 10): -0.021982
+
+Cost at test theta (with lambda = 10): 0.162345
+
+Cost at test theta (with lambda = 10): -0.000276
+
+Cost at test theta (with lambda = 10): 0.002039
+
+Cost at test theta (with lambda = 10): -0.015056
+
+Cost at test theta (with lambda = 10): 0.111196
+
+Cost at test theta (with lambda = 10): 0.000026
+
+Cost at test theta (with lambda = 10): -0.000189
+
+Cost at test theta (with lambda = 10): 0.001396
+
+Cost at test theta (with lambda = 10): -0.010313
+
+Cost at test theta (with lambda = 10): 0.076163
+
+Cost at test theta (with lambda = 10): -0.000002
+
+Cost at test theta (with lambda = 10): 0.000018
+
+Cost at test theta (with lambda = 10): -0.000129
+
+Cost at test theta (with lambda = 10): 0.000956
+
+Cost at test theta (with lambda = 10): -0.007063
+
+Cost at test theta (with lambda = 10): 0.052167
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000002
+
+Cost at test theta (with lambda = 10): 0.000012
+
+Cost at test theta (with lambda = 10): -0.000089
+
+Cost at test theta (with lambda = 10): 0.000655
+
+Cost at test theta (with lambda = 10): -0.004838
+
+Cost at test theta (with lambda = 10): 0.035731
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.073953
+
+Cost at test theta (with lambda = 10): 0.239550
+
+Cost at test theta (with lambda = 10): 0.015805
+
+Cost at test theta (with lambda = 10): -0.051194
+
+Cost at test theta (with lambda = 10): 0.165828
+
+Cost at test theta (with lambda = 10): -0.003378
+
+Cost at test theta (with lambda = 10): 0.010941
+
+Cost at test theta (with lambda = 10): -0.035439
+
+Cost at test theta (with lambda = 10): 0.114795
+
+Cost at test theta (with lambda = 10): 0.000722
+
+Cost at test theta (with lambda = 10): -0.002338
+
+Cost at test theta (with lambda = 10): 0.007574
+
+Cost at test theta (with lambda = 10): -0.024533
+
+Cost at test theta (with lambda = 10): 0.079467
+
+Cost at test theta (with lambda = 10): -0.000154
+
+Cost at test theta (with lambda = 10): 0.000500
+
+Cost at test theta (with lambda = 10): -0.001619
+
+Cost at test theta (with lambda = 10): 0.005243
+
+Cost at test theta (with lambda = 10): -0.016983
+
+Cost at test theta (with lambda = 10): 0.055011
+
+Cost at test theta (with lambda = 10): 0.000033
+
+Cost at test theta (with lambda = 10): -0.000107
+
+Cost at test theta (with lambda = 10): 0.000346
+
+Cost at test theta (with lambda = 10): -0.001120
+
+Cost at test theta (with lambda = 10): 0.003629
+
+Cost at test theta (with lambda = 10): -0.011756
+
+Cost at test theta (with lambda = 10): 0.038081
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.129767
+
+Cost at test theta (with lambda = 10): 0.173780
+
+Cost at test theta (with lambda = 10): 0.048663
+
+Cost at test theta (with lambda = 10): -0.065168
+
+Cost at test theta (with lambda = 10): 0.087271
+
+Cost at test theta (with lambda = 10): -0.018248
+
+Cost at test theta (with lambda = 10): 0.024438
+
+Cost at test theta (with lambda = 10): -0.032727
+
+Cost at test theta (with lambda = 10): 0.043827
+
+Cost at test theta (with lambda = 10): 0.006843
+
+Cost at test theta (with lambda = 10): -0.009164
+
+Cost at test theta (with lambda = 10): 0.012272
+
+Cost at test theta (with lambda = 10): -0.016435
+
+Cost at test theta (with lambda = 10): 0.022009
+
+Cost at test theta (with lambda = 10): -0.002566
+
+Cost at test theta (with lambda = 10): 0.003437
+
+Cost at test theta (with lambda = 10): -0.004602
+
+Cost at test theta (with lambda = 10): 0.006163
+
+Cost at test theta (with lambda = 10): -0.008253
+
+Cost at test theta (with lambda = 10): 0.011053
+
+Cost at test theta (with lambda = 10): 0.000962
+
+Cost at test theta (with lambda = 10): -0.001289
+
+Cost at test theta (with lambda = 10): 0.001726
+
+Cost at test theta (with lambda = 10): -0.002311
+
+Cost at test theta (with lambda = 10): 0.003095
+
+Cost at test theta (with lambda = 10): -0.004145
+
+Cost at test theta (with lambda = 10): 0.005551
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.177608
+
+Cost at test theta (with lambda = 10): 0.161132
+
+Cost at test theta (with lambda = 10): 0.091157
+
+Cost at test theta (with lambda = 10): -0.082701
+
+Cost at test theta (with lambda = 10): 0.075030
+
+Cost at test theta (with lambda = 10): -0.046786
+
+Cost at test theta (with lambda = 10): 0.042446
+
+Cost at test theta (with lambda = 10): -0.038509
+
+Cost at test theta (with lambda = 10): 0.034937
+
+Cost at test theta (with lambda = 10): 0.024013
+
+Cost at test theta (with lambda = 10): -0.021786
+
+Cost at test theta (with lambda = 10): 0.019765
+
+Cost at test theta (with lambda = 10): -0.017931
+
+Cost at test theta (with lambda = 10): 0.016268
+
+Cost at test theta (with lambda = 10): -0.012325
+
+Cost at test theta (with lambda = 10): 0.011181
+
+Cost at test theta (with lambda = 10): -0.010144
+
+Cost at test theta (with lambda = 10): 0.009203
+
+Cost at test theta (with lambda = 10): -0.008350
+
+Cost at test theta (with lambda = 10): 0.007575
+
+Cost at test theta (with lambda = 10): 0.006326
+
+Cost at test theta (with lambda = 10): -0.005739
+
+Cost at test theta (with lambda = 10): 0.005207
+
+Cost at test theta (with lambda = 10): -0.004724
+
+Cost at test theta (with lambda = 10): 0.004285
+
+Cost at test theta (with lambda = 10): -0.003888
+
+Cost at test theta (with lambda = 10): 0.003527
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.181594
+
+Cost at test theta (with lambda = 10): 0.072600
+
+Cost at test theta (with lambda = 10): 0.095295
+
+Cost at test theta (with lambda = 10): -0.038098
+
+Cost at test theta (with lambda = 10): 0.015232
+
+Cost at test theta (with lambda = 10): -0.050008
+
+Cost at test theta (with lambda = 10): 0.019993
+
+Cost at test theta (with lambda = 10): -0.007993
+
+Cost at test theta (with lambda = 10): 0.003196
+
+Cost at test theta (with lambda = 10): 0.026243
+
+Cost at test theta (with lambda = 10): -0.010492
+
+Cost at test theta (with lambda = 10): 0.004195
+
+Cost at test theta (with lambda = 10): -0.001677
+
+Cost at test theta (with lambda = 10): 0.000670
+
+Cost at test theta (with lambda = 10): -0.013771
+
+Cost at test theta (with lambda = 10): 0.005506
+
+Cost at test theta (with lambda = 10): -0.002201
+
+Cost at test theta (with lambda = 10): 0.000880
+
+Cost at test theta (with lambda = 10): -0.000352
+
+Cost at test theta (with lambda = 10): 0.000141
+
+Cost at test theta (with lambda = 10): 0.007227
+
+Cost at test theta (with lambda = 10): -0.002889
+
+Cost at test theta (with lambda = 10): 0.001155
+
+Cost at test theta (with lambda = 10): -0.000462
+
+Cost at test theta (with lambda = 10): 0.000185
+
+Cost at test theta (with lambda = 10): -0.000074
+
+Cost at test theta (with lambda = 10): 0.000030
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.137740
+
+Cost at test theta (with lambda = 10): 0.011889
+
+Cost at test theta (with lambda = 10): 0.054826
+
+Cost at test theta (with lambda = 10): -0.004732
+
+Cost at test theta (with lambda = 10): 0.000408
+
+Cost at test theta (with lambda = 10): -0.021823
+
+Cost at test theta (with lambda = 10): 0.001884
+
+Cost at test theta (with lambda = 10): -0.000163
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): 0.008686
+
+Cost at test theta (with lambda = 10): -0.000750
+
+Cost at test theta (with lambda = 10): 0.000065
+
+Cost at test theta (with lambda = 10): -0.000006
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.003458
+
+Cost at test theta (with lambda = 10): 0.000298
+
+Cost at test theta (with lambda = 10): -0.000026
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.001376
+
+Cost at test theta (with lambda = 10): -0.000119
+
+Cost at test theta (with lambda = 10): 0.000010
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.105848
+
+Cost at test theta (with lambda = 10): -0.066527
+
+Cost at test theta (with lambda = 10): 0.032377
+
+Cost at test theta (with lambda = 10): 0.020349
+
+Cost at test theta (with lambda = 10): 0.012790
+
+Cost at test theta (with lambda = 10): -0.009903
+
+Cost at test theta (with lambda = 10): -0.006224
+
+Cost at test theta (with lambda = 10): -0.003912
+
+Cost at test theta (with lambda = 10): -0.002459
+
+Cost at test theta (with lambda = 10): 0.003029
+
+Cost at test theta (with lambda = 10): 0.001904
+
+Cost at test theta (with lambda = 10): 0.001197
+
+Cost at test theta (with lambda = 10): 0.000752
+
+Cost at test theta (with lambda = 10): 0.000473
+
+Cost at test theta (with lambda = 10): -0.000927
+
+Cost at test theta (with lambda = 10): -0.000582
+
+Cost at test theta (with lambda = 10): -0.000366
+
+Cost at test theta (with lambda = 10): -0.000230
+
+Cost at test theta (with lambda = 10): -0.000145
+
+Cost at test theta (with lambda = 10): -0.000091
+
+Cost at test theta (with lambda = 10): 0.000283
+
+Cost at test theta (with lambda = 10): 0.000178
+
+Cost at test theta (with lambda = 10): 0.000112
+
+Cost at test theta (with lambda = 10): 0.000070
+
+Cost at test theta (with lambda = 10): 0.000044
+
+Cost at test theta (with lambda = 10): 0.000028
+
+Cost at test theta (with lambda = 10): 0.000017
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.005781
+
+Cost at test theta (with lambda = 10): -0.139885
+
+Cost at test theta (with lambda = 10): 0.000097
+
+Cost at test theta (with lambda = 10): -0.002337
+
+Cost at test theta (with lambda = 10): 0.056547
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): -0.000039
+
+Cost at test theta (with lambda = 10): 0.000945
+
+Cost at test theta (with lambda = 10): -0.022859
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.000016
+
+Cost at test theta (with lambda = 10): -0.000382
+
+Cost at test theta (with lambda = 10): 0.009240
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000006
+
+Cost at test theta (with lambda = 10): 0.000154
+
+Cost at test theta (with lambda = 10): -0.003735
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000003
+
+Cost at test theta (with lambda = 10): -0.000062
+
+Cost at test theta (with lambda = 10): 0.001510
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.045647
+
+Cost at test theta (with lambda = 10): -0.177829
+
+Cost at test theta (with lambda = 10): 0.006021
+
+Cost at test theta (with lambda = 10): -0.023457
+
+Cost at test theta (with lambda = 10): 0.091385
+
+Cost at test theta (with lambda = 10): 0.000794
+
+Cost at test theta (with lambda = 10): -0.003094
+
+Cost at test theta (with lambda = 10): 0.012055
+
+Cost at test theta (with lambda = 10): -0.046962
+
+Cost at test theta (with lambda = 10): 0.000105
+
+Cost at test theta (with lambda = 10): -0.000408
+
+Cost at test theta (with lambda = 10): 0.001590
+
+Cost at test theta (with lambda = 10): -0.006195
+
+Cost at test theta (with lambda = 10): 0.024133
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): -0.000054
+
+Cost at test theta (with lambda = 10): 0.000210
+
+Cost at test theta (with lambda = 10): -0.000817
+
+Cost at test theta (with lambda = 10): 0.003183
+
+Cost at test theta (with lambda = 10): -0.012402
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): -0.000007
+
+Cost at test theta (with lambda = 10): 0.000028
+
+Cost at test theta (with lambda = 10): -0.000108
+
+Cost at test theta (with lambda = 10): 0.000420
+
+Cost at test theta (with lambda = 10): -0.001636
+
+Cost at test theta (with lambda = 10): 0.006373
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.133355
+
+Cost at test theta (with lambda = 10): -0.195536
+
+Cost at test theta (with lambda = 10): 0.051391
+
+Cost at test theta (with lambda = 10): -0.075354
+
+Cost at test theta (with lambda = 10): 0.110490
+
+Cost at test theta (with lambda = 10): 0.019805
+
+Cost at test theta (with lambda = 10): -0.029039
+
+Cost at test theta (with lambda = 10): 0.042579
+
+Cost at test theta (with lambda = 10): -0.062433
+
+Cost at test theta (with lambda = 10): 0.007632
+
+Cost at test theta (with lambda = 10): -0.011191
+
+Cost at test theta (with lambda = 10): 0.016409
+
+Cost at test theta (with lambda = 10): -0.024060
+
+Cost at test theta (with lambda = 10): 0.035279
+
+Cost at test theta (with lambda = 10): 0.002941
+
+Cost at test theta (with lambda = 10): -0.004313
+
+Cost at test theta (with lambda = 10): 0.006323
+
+Cost at test theta (with lambda = 10): -0.009272
+
+Cost at test theta (with lambda = 10): 0.013595
+
+Cost at test theta (with lambda = 10): -0.019935
+
+Cost at test theta (with lambda = 10): 0.001133
+
+Cost at test theta (with lambda = 10): -0.001662
+
+Cost at test theta (with lambda = 10): 0.002437
+
+Cost at test theta (with lambda = 10): -0.003573
+
+Cost at test theta (with lambda = 10): 0.005239
+
+Cost at test theta (with lambda = 10): -0.007682
+
+Cost at test theta (with lambda = 10): 0.011264
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.183189
+
+Cost at test theta (with lambda = 10): -0.180359
+
+Cost at test theta (with lambda = 10): 0.096977
+
+Cost at test theta (with lambda = 10): -0.095478
+
+Cost at test theta (with lambda = 10): 0.094003
+
+Cost at test theta (with lambda = 10): 0.051338
+
+Cost at test theta (with lambda = 10): -0.050544
+
+Cost at test theta (with lambda = 10): 0.049763
+
+Cost at test theta (with lambda = 10): -0.048994
+
+Cost at test theta (with lambda = 10): 0.027177
+
+Cost at test theta (with lambda = 10): -0.026757
+
+Cost at test theta (with lambda = 10): 0.026344
+
+Cost at test theta (with lambda = 10): -0.025937
+
+Cost at test theta (with lambda = 10): 0.025536
+
+Cost at test theta (with lambda = 10): 0.014387
+
+Cost at test theta (with lambda = 10): -0.014165
+
+Cost at test theta (with lambda = 10): 0.013946
+
+Cost at test theta (with lambda = 10): -0.013730
+
+Cost at test theta (with lambda = 10): 0.013518
+
+Cost at test theta (with lambda = 10): -0.013309
+
+Cost at test theta (with lambda = 10): 0.007616
+
+Cost at test theta (with lambda = 10): -0.007499
+
+Cost at test theta (with lambda = 10): 0.007383
+
+Cost at test theta (with lambda = 10): -0.007269
+
+Cost at test theta (with lambda = 10): 0.007156
+
+Cost at test theta (with lambda = 10): -0.007046
+
+Cost at test theta (with lambda = 10): 0.006937
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.221061
+
+Cost at test theta (with lambda = 10): -0.084234
+
+Cost at test theta (with lambda = 10): 0.141218
+
+Cost at test theta (with lambda = 10): -0.053811
+
+Cost at test theta (with lambda = 10): 0.020504
+
+Cost at test theta (with lambda = 10): 0.090213
+
+Cost at test theta (with lambda = 10): -0.034375
+
+Cost at test theta (with lambda = 10): 0.013099
+
+Cost at test theta (with lambda = 10): -0.004991
+
+Cost at test theta (with lambda = 10): 0.057630
+
+Cost at test theta (with lambda = 10): -0.021960
+
+Cost at test theta (with lambda = 10): 0.008368
+
+Cost at test theta (with lambda = 10): -0.003188
+
+Cost at test theta (with lambda = 10): 0.001215
+
+Cost at test theta (with lambda = 10): 0.036815
+
+Cost at test theta (with lambda = 10): -0.014028
+
+Cost at test theta (with lambda = 10): 0.005345
+
+Cost at test theta (with lambda = 10): -0.002037
+
+Cost at test theta (with lambda = 10): 0.000776
+
+Cost at test theta (with lambda = 10): -0.000296
+
+Cost at test theta (with lambda = 10): 0.023518
+
+Cost at test theta (with lambda = 10): -0.008962
+
+Cost at test theta (with lambda = 10): 0.003415
+
+Cost at test theta (with lambda = 10): -0.001301
+
+Cost at test theta (with lambda = 10): 0.000496
+
+Cost at test theta (with lambda = 10): -0.000189
+
+Cost at test theta (with lambda = 10): 0.000072
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.254949
+
+Cost at test theta (with lambda = 10): -0.063998
+
+Cost at test theta (with lambda = 10): 0.187833
+
+Cost at test theta (with lambda = 10): -0.047150
+
+Cost at test theta (with lambda = 10): 0.011836
+
+Cost at test theta (with lambda = 10): 0.138386
+
+Cost at test theta (with lambda = 10): -0.034738
+
+Cost at test theta (with lambda = 10): 0.008720
+
+Cost at test theta (with lambda = 10): -0.002189
+
+Cost at test theta (with lambda = 10): 0.101956
+
+Cost at test theta (with lambda = 10): -0.025593
+
+Cost at test theta (with lambda = 10): 0.006424
+
+Cost at test theta (with lambda = 10): -0.001613
+
+Cost at test theta (with lambda = 10): 0.000405
+
+Cost at test theta (with lambda = 10): 0.075116
+
+Cost at test theta (with lambda = 10): -0.018856
+
+Cost at test theta (with lambda = 10): 0.004733
+
+Cost at test theta (with lambda = 10): -0.001188
+
+Cost at test theta (with lambda = 10): 0.000298
+
+Cost at test theta (with lambda = 10): -0.000075
+
+Cost at test theta (with lambda = 10): 0.055342
+
+Cost at test theta (with lambda = 10): -0.013892
+
+Cost at test theta (with lambda = 10): 0.003487
+
+Cost at test theta (with lambda = 10): -0.000875
+
+Cost at test theta (with lambda = 10): 0.000220
+
+Cost at test theta (with lambda = 10): -0.000055
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.189169
+
+Cost at test theta (with lambda = 10): 0.168721
+
+Cost at test theta (with lambda = 10): 0.103411
+
+Cost at test theta (with lambda = 10): 0.092233
+
+Cost at test theta (with lambda = 10): 0.082263
+
+Cost at test theta (with lambda = 10): 0.056531
+
+Cost at test theta (with lambda = 10): 0.050420
+
+Cost at test theta (with lambda = 10): 0.044970
+
+Cost at test theta (with lambda = 10): 0.040109
+
+Cost at test theta (with lambda = 10): 0.030903
+
+Cost at test theta (with lambda = 10): 0.027563
+
+Cost at test theta (with lambda = 10): 0.024583
+
+Cost at test theta (with lambda = 10): 0.021926
+
+Cost at test theta (with lambda = 10): 0.019556
+
+Cost at test theta (with lambda = 10): 0.016893
+
+Cost at test theta (with lambda = 10): 0.015067
+
+Cost at test theta (with lambda = 10): 0.013439
+
+Cost at test theta (with lambda = 10): 0.011986
+
+Cost at test theta (with lambda = 10): 0.010690
+
+Cost at test theta (with lambda = 10): 0.009535
+
+Cost at test theta (with lambda = 10): 0.009235
+
+Cost at test theta (with lambda = 10): 0.008237
+
+Cost at test theta (with lambda = 10): 0.007346
+
+Cost at test theta (with lambda = 10): 0.006552
+
+Cost at test theta (with lambda = 10): 0.005844
+
+Cost at test theta (with lambda = 10): 0.005212
+
+Cost at test theta (with lambda = 10): 0.004649
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.111427
+
+Cost at test theta (with lambda = 10): 0.201606
+
+Cost at test theta (with lambda = 10): 0.035879
+
+Cost at test theta (with lambda = 10): 0.064917
+
+Cost at test theta (with lambda = 10): 0.117456
+
+Cost at test theta (with lambda = 10): 0.011553
+
+Cost at test theta (with lambda = 10): 0.020903
+
+Cost at test theta (with lambda = 10): 0.037821
+
+Cost at test theta (with lambda = 10): 0.068430
+
+Cost at test theta (with lambda = 10): 0.003720
+
+Cost at test theta (with lambda = 10): 0.006731
+
+Cost at test theta (with lambda = 10): 0.012178
+
+Cost at test theta (with lambda = 10): 0.022034
+
+Cost at test theta (with lambda = 10): 0.039867
+
+Cost at test theta (with lambda = 10): 0.001198
+
+Cost at test theta (with lambda = 10): 0.002167
+
+Cost at test theta (with lambda = 10): 0.003921
+
+Cost at test theta (with lambda = 10): 0.007095
+
+Cost at test theta (with lambda = 10): 0.012837
+
+Cost at test theta (with lambda = 10): 0.023227
+
+Cost at test theta (with lambda = 10): 0.000386
+
+Cost at test theta (with lambda = 10): 0.000698
+
+Cost at test theta (with lambda = 10): 0.001263
+
+Cost at test theta (with lambda = 10): 0.002285
+
+Cost at test theta (with lambda = 10): 0.004134
+
+Cost at test theta (with lambda = 10): 0.007479
+
+Cost at test theta (with lambda = 10): 0.013532
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.057606
+
+Cost at test theta (with lambda = 10): 0.186428
+
+Cost at test theta (with lambda = 10): 0.009590
+
+Cost at test theta (with lambda = 10): 0.031035
+
+Cost at test theta (with lambda = 10): 0.100436
+
+Cost at test theta (with lambda = 10): 0.001596
+
+Cost at test theta (with lambda = 10): 0.005166
+
+Cost at test theta (with lambda = 10): 0.016720
+
+Cost at test theta (with lambda = 10): 0.054109
+
+Cost at test theta (with lambda = 10): 0.000266
+
+Cost at test theta (with lambda = 10): 0.000860
+
+Cost at test theta (with lambda = 10): 0.002783
+
+Cost at test theta (with lambda = 10): 0.009008
+
+Cost at test theta (with lambda = 10): 0.029151
+
+Cost at test theta (with lambda = 10): 0.000044
+
+Cost at test theta (with lambda = 10): 0.000143
+
+Cost at test theta (with lambda = 10): 0.000463
+
+Cost at test theta (with lambda = 10): 0.001499
+
+Cost at test theta (with lambda = 10): 0.004853
+
+Cost at test theta (with lambda = 10): 0.015705
+
+Cost at test theta (with lambda = 10): 0.000007
+
+Cost at test theta (with lambda = 10): 0.000024
+
+Cost at test theta (with lambda = 10): 0.000077
+
+Cost at test theta (with lambda = 10): 0.000250
+
+Cost at test theta (with lambda = 10): 0.000808
+
+Cost at test theta (with lambda = 10): 0.002614
+
+Cost at test theta (with lambda = 10): 0.008461
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.016146
+
+Cost at test theta (with lambda = 10): 0.282553
+
+Cost at test theta (with lambda = 10): 0.000753
+
+Cost at test theta (with lambda = 10): -0.013184
+
+Cost at test theta (with lambda = 10): 0.230710
+
+Cost at test theta (with lambda = 10): -0.000035
+
+Cost at test theta (with lambda = 10): 0.000615
+
+Cost at test theta (with lambda = 10): -0.010765
+
+Cost at test theta (with lambda = 10): 0.188379
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): -0.000029
+
+Cost at test theta (with lambda = 10): 0.000502
+
+Cost at test theta (with lambda = 10): -0.008790
+
+Cost at test theta (with lambda = 10): 0.153815
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): -0.000023
+
+Cost at test theta (with lambda = 10): 0.000410
+
+Cost at test theta (with lambda = 10): -0.007177
+
+Cost at test theta (with lambda = 10): 0.125593
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): -0.000019
+
+Cost at test theta (with lambda = 10): 0.000335
+
+Cost at test theta (with lambda = 10): -0.005860
+
+Cost at test theta (with lambda = 10): 0.102550
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.060001
+
+Cost at test theta (with lambda = 10): 0.242079
+
+Cost at test theta (with lambda = 10): 0.010404
+
+Cost at test theta (with lambda = 10): -0.041974
+
+Cost at test theta (with lambda = 10): 0.169349
+
+Cost at test theta (with lambda = 10): -0.001804
+
+Cost at test theta (with lambda = 10): 0.007278
+
+Cost at test theta (with lambda = 10): -0.029363
+
+Cost at test theta (with lambda = 10): 0.118470
+
+Cost at test theta (with lambda = 10): 0.000313
+
+Cost at test theta (with lambda = 10): -0.001262
+
+Cost at test theta (with lambda = 10): 0.005091
+
+Cost at test theta (with lambda = 10): -0.020541
+
+Cost at test theta (with lambda = 10): 0.082877
+
+Cost at test theta (with lambda = 10): -0.000054
+
+Cost at test theta (with lambda = 10): 0.000219
+
+Cost at test theta (with lambda = 10): -0.000883
+
+Cost at test theta (with lambda = 10): 0.003562
+
+Cost at test theta (with lambda = 10): -0.014370
+
+Cost at test theta (with lambda = 10): 0.057977
+
+Cost at test theta (with lambda = 10): 0.000009
+
+Cost at test theta (with lambda = 10): -0.000038
+
+Cost at test theta (with lambda = 10): 0.000153
+
+Cost at test theta (with lambda = 10): -0.000618
+
+Cost at test theta (with lambda = 10): 0.002492
+
+Cost at test theta (with lambda = 10): -0.010053
+
+Cost at test theta (with lambda = 10): 0.040559
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.165648
+
+Cost at test theta (with lambda = 10): 0.219313
+
+Cost at test theta (with lambda = 10): 0.079294
+
+Cost at test theta (with lambda = 10): -0.104983
+
+Cost at test theta (with lambda = 10): 0.138994
+
+Cost at test theta (with lambda = 10): -0.037957
+
+Cost at test theta (with lambda = 10): 0.050254
+
+Cost at test theta (with lambda = 10): -0.066535
+
+Cost at test theta (with lambda = 10): 0.088090
+
+Cost at test theta (with lambda = 10): 0.018170
+
+Cost at test theta (with lambda = 10): -0.024056
+
+Cost at test theta (with lambda = 10): 0.031850
+
+Cost at test theta (with lambda = 10): -0.042168
+
+Cost at test theta (with lambda = 10): 0.055829
+
+Cost at test theta (with lambda = 10): -0.008698
+
+Cost at test theta (with lambda = 10): 0.011515
+
+Cost at test theta (with lambda = 10): -0.015246
+
+Cost at test theta (with lambda = 10): 0.020185
+
+Cost at test theta (with lambda = 10): -0.026725
+
+Cost at test theta (with lambda = 10): 0.035383
+
+Cost at test theta (with lambda = 10): 0.004164
+
+Cost at test theta (with lambda = 10): -0.005512
+
+Cost at test theta (with lambda = 10): 0.007298
+
+Cost at test theta (with lambda = 10): -0.009663
+
+Cost at test theta (with lambda = 10): 0.012793
+
+Cost at test theta (with lambda = 10): -0.016937
+
+Cost at test theta (with lambda = 10): 0.022424
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.209499
+
+Cost at test theta (with lambda = 10): 0.206665
+
+Cost at test theta (with lambda = 10): 0.126833
+
+Cost at test theta (with lambda = 10): -0.125117
+
+Cost at test theta (with lambda = 10): 0.123424
+
+Cost at test theta (with lambda = 10): -0.076786
+
+Cost at test theta (with lambda = 10): 0.075747
+
+Cost at test theta (with lambda = 10): -0.074722
+
+Cost at test theta (with lambda = 10): 0.073712
+
+Cost at test theta (with lambda = 10): 0.046487
+
+Cost at test theta (with lambda = 10): -0.045858
+
+Cost at test theta (with lambda = 10): 0.045238
+
+Cost at test theta (with lambda = 10): -0.044626
+
+Cost at test theta (with lambda = 10): 0.044022
+
+Cost at test theta (with lambda = 10): -0.028144
+
+Cost at test theta (with lambda = 10): 0.027763
+
+Cost at test theta (with lambda = 10): -0.027387
+
+Cost at test theta (with lambda = 10): 0.027017
+
+Cost at test theta (with lambda = 10): -0.026651
+
+Cost at test theta (with lambda = 10): 0.026291
+
+Cost at test theta (with lambda = 10): 0.017038
+
+Cost at test theta (with lambda = 10): -0.016808
+
+Cost at test theta (with lambda = 10): 0.016581
+
+Cost at test theta (with lambda = 10): -0.016356
+
+Cost at test theta (with lambda = 10): 0.016135
+
+Cost at test theta (with lambda = 10): -0.015917
+
+Cost at test theta (with lambda = 10): 0.015701
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.217475
+
+Cost at test theta (with lambda = 10): 0.115600
+
+Cost at test theta (with lambda = 10): 0.136675
+
+Cost at test theta (with lambda = 10): -0.072650
+
+Cost at test theta (with lambda = 10): 0.038617
+
+Cost at test theta (with lambda = 10): -0.085895
+
+Cost at test theta (with lambda = 10): 0.045658
+
+Cost at test theta (with lambda = 10): -0.024269
+
+Cost at test theta (with lambda = 10): 0.012900
+
+Cost at test theta (with lambda = 10): 0.053981
+
+Cost at test theta (with lambda = 10): -0.028694
+
+Cost at test theta (with lambda = 10): 0.015252
+
+Cost at test theta (with lambda = 10): -0.008107
+
+Cost at test theta (with lambda = 10): 0.004310
+
+Cost at test theta (with lambda = 10): -0.033925
+
+Cost at test theta (with lambda = 10): 0.018033
+
+Cost at test theta (with lambda = 10): -0.009585
+
+Cost at test theta (with lambda = 10): 0.005095
+
+Cost at test theta (with lambda = 10): -0.002708
+
+Cost at test theta (with lambda = 10): 0.001440
+
+Cost at test theta (with lambda = 10): 0.021321
+
+Cost at test theta (with lambda = 10): -0.011333
+
+Cost at test theta (with lambda = 10): 0.006024
+
+Cost at test theta (with lambda = 10): -0.003202
+
+Cost at test theta (with lambda = 10): 0.001702
+
+Cost at test theta (with lambda = 10): -0.000905
+
+Cost at test theta (with lambda = 10): 0.000481
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.205513
+
+Cost at test theta (with lambda = 10): 0.001771
+
+Cost at test theta (with lambda = 10): 0.122052
+
+Cost at test theta (with lambda = 10): -0.001052
+
+Cost at test theta (with lambda = 10): 0.000009
+
+Cost at test theta (with lambda = 10): -0.072485
+
+Cost at test theta (with lambda = 10): 0.000625
+
+Cost at test theta (with lambda = 10): -0.000005
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.043048
+
+Cost at test theta (with lambda = 10): -0.000371
+
+Cost at test theta (with lambda = 10): 0.000003
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.025566
+
+Cost at test theta (with lambda = 10): 0.000220
+
+Cost at test theta (with lambda = 10): -0.000002
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.015183
+
+Cost at test theta (with lambda = 10): -0.000131
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.145713
+
+Cost at test theta (with lambda = 10): -0.094353
+
+Cost at test theta (with lambda = 10): 0.061357
+
+Cost at test theta (with lambda = 10): 0.039730
+
+Cost at test theta (with lambda = 10): 0.025726
+
+Cost at test theta (with lambda = 10): -0.025836
+
+Cost at test theta (with lambda = 10): -0.016730
+
+Cost at test theta (with lambda = 10): -0.010833
+
+Cost at test theta (with lambda = 10): -0.007015
+
+Cost at test theta (with lambda = 10): 0.010879
+
+Cost at test theta (with lambda = 10): 0.007044
+
+Cost at test theta (with lambda = 10): 0.004561
+
+Cost at test theta (with lambda = 10): 0.002954
+
+Cost at test theta (with lambda = 10): 0.001913
+
+Cost at test theta (with lambda = 10): -0.004581
+
+Cost at test theta (with lambda = 10): -0.002966
+
+Cost at test theta (with lambda = 10): -0.001921
+
+Cost at test theta (with lambda = 10): -0.001244
+
+Cost at test theta (with lambda = 10): -0.000805
+
+Cost at test theta (with lambda = 10): -0.000521
+
+Cost at test theta (with lambda = 10): 0.001929
+
+Cost at test theta (with lambda = 10): 0.001249
+
+Cost at test theta (with lambda = 10): 0.000809
+
+Cost at test theta (with lambda = 10): 0.000524
+
+Cost at test theta (with lambda = 10): 0.000339
+
+Cost at test theta (with lambda = 10): 0.000220
+
+Cost at test theta (with lambda = 10): 0.000142
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.040065
+
+Cost at test theta (with lambda = 10): -0.137356
+
+Cost at test theta (with lambda = 10): 0.004639
+
+Cost at test theta (with lambda = 10): 0.015903
+
+Cost at test theta (with lambda = 10): 0.054521
+
+Cost at test theta (with lambda = 10): -0.000537
+
+Cost at test theta (with lambda = 10): -0.001841
+
+Cost at test theta (with lambda = 10): -0.006312
+
+Cost at test theta (with lambda = 10): -0.021641
+
+Cost at test theta (with lambda = 10): 0.000062
+
+Cost at test theta (with lambda = 10): 0.000213
+
+Cost at test theta (with lambda = 10): 0.000731
+
+Cost at test theta (with lambda = 10): 0.002506
+
+Cost at test theta (with lambda = 10): 0.008590
+
+Cost at test theta (with lambda = 10): -0.000007
+
+Cost at test theta (with lambda = 10): -0.000025
+
+Cost at test theta (with lambda = 10): -0.000085
+
+Cost at test theta (with lambda = 10): -0.000290
+
+Cost at test theta (with lambda = 10): -0.000995
+
+Cost at test theta (with lambda = 10): -0.003410
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): 0.000003
+
+Cost at test theta (with lambda = 10): 0.000010
+
+Cost at test theta (with lambda = 10): 0.000034
+
+Cost at test theta (with lambda = 10): 0.000115
+
+Cost at test theta (with lambda = 10): 0.000395
+
+Cost at test theta (with lambda = 10): 0.001353
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.069569
+
+Cost at test theta (with lambda = 10): -0.208184
+
+Cost at test theta (with lambda = 10): 0.013986
+
+Cost at test theta (with lambda = 10): -0.041853
+
+Cost at test theta (with lambda = 10): 0.125246
+
+Cost at test theta (with lambda = 10): 0.002812
+
+Cost at test theta (with lambda = 10): -0.008414
+
+Cost at test theta (with lambda = 10): 0.025179
+
+Cost at test theta (with lambda = 10): -0.075349
+
+Cost at test theta (with lambda = 10): 0.000565
+
+Cost at test theta (with lambda = 10): -0.001692
+
+Cost at test theta (with lambda = 10): 0.005062
+
+Cost at test theta (with lambda = 10): -0.015148
+
+Cost at test theta (with lambda = 10): 0.045331
+
+Cost at test theta (with lambda = 10): 0.000114
+
+Cost at test theta (with lambda = 10): -0.000340
+
+Cost at test theta (with lambda = 10): 0.001018
+
+Cost at test theta (with lambda = 10): -0.003045
+
+Cost at test theta (with lambda = 10): 0.009113
+
+Cost at test theta (with lambda = 10): -0.027271
+
+Cost at test theta (with lambda = 10): 0.000023
+
+Cost at test theta (with lambda = 10): -0.000068
+
+Cost at test theta (with lambda = 10): 0.000205
+
+Cost at test theta (with lambda = 10): -0.000612
+
+Cost at test theta (with lambda = 10): 0.001832
+
+Cost at test theta (with lambda = 10): -0.005483
+
+Cost at test theta (with lambda = 10): 0.016407
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.161260
+
+Cost at test theta (with lambda = 10): -0.185418
+
+Cost at test theta (with lambda = 10): 0.075149
+
+Cost at test theta (with lambda = 10): -0.086407
+
+Cost at test theta (with lambda = 10): 0.099351
+
+Cost at test theta (with lambda = 10): 0.035020
+
+Cost at test theta (with lambda = 10): -0.040266
+
+Cost at test theta (with lambda = 10): 0.046298
+
+Cost at test theta (with lambda = 10): -0.053234
+
+Cost at test theta (with lambda = 10): 0.016320
+
+Cost at test theta (with lambda = 10): -0.018765
+
+Cost at test theta (with lambda = 10): 0.021576
+
+Cost at test theta (with lambda = 10): -0.024808
+
+Cost at test theta (with lambda = 10): 0.028524
+
+Cost at test theta (with lambda = 10): 0.007605
+
+Cost at test theta (with lambda = 10): -0.008744
+
+Cost at test theta (with lambda = 10): 0.010054
+
+Cost at test theta (with lambda = 10): -0.011561
+
+Cost at test theta (with lambda = 10): 0.013292
+
+Cost at test theta (with lambda = 10): -0.015284
+
+Cost at test theta (with lambda = 10): 0.003544
+
+Cost at test theta (with lambda = 10): -0.004075
+
+Cost at test theta (with lambda = 10): 0.004685
+
+Cost at test theta (with lambda = 10): -0.005387
+
+Cost at test theta (with lambda = 10): 0.006194
+
+Cost at test theta (with lambda = 10): -0.007122
+
+Cost at test theta (with lambda = 10): 0.008189
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.233023
+
+Cost at test theta (with lambda = 10): -0.185418
+
+Cost at test theta (with lambda = 10): 0.156916
+
+Cost at test theta (with lambda = 10): -0.124859
+
+Cost at test theta (with lambda = 10): 0.099351
+
+Cost at test theta (with lambda = 10): 0.105665
+
+Cost at test theta (with lambda = 10): -0.084078
+
+Cost at test theta (with lambda = 10): 0.066902
+
+Cost at test theta (with lambda = 10): -0.053234
+
+Cost at test theta (with lambda = 10): 0.071154
+
+Cost at test theta (with lambda = 10): -0.056618
+
+Cost at test theta (with lambda = 10): 0.045051
+
+Cost at test theta (with lambda = 10): -0.035847
+
+Cost at test theta (with lambda = 10): 0.028524
+
+Cost at test theta (with lambda = 10): 0.047914
+
+Cost at test theta (with lambda = 10): -0.038126
+
+Cost at test theta (with lambda = 10): 0.030337
+
+Cost at test theta (with lambda = 10): -0.024139
+
+Cost at test theta (with lambda = 10): 0.019208
+
+Cost at test theta (with lambda = 10): -0.015284
+
+Cost at test theta (with lambda = 10): 0.032265
+
+Cost at test theta (with lambda = 10): -0.025673
+
+Cost at test theta (with lambda = 10): 0.020429
+
+Cost at test theta (with lambda = 10): -0.016255
+
+Cost at test theta (with lambda = 10): 0.012934
+
+Cost at test theta (with lambda = 10): -0.010292
+
+Cost at test theta (with lambda = 10): 0.008189
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.048038
+
+Cost at test theta (with lambda = 10): 0.188958
+
+Cost at test theta (with lambda = 10): 0.006669
+
+Cost at test theta (with lambda = 10): -0.026231
+
+Cost at test theta (with lambda = 10): 0.103180
+
+Cost at test theta (with lambda = 10): -0.000926
+
+Cost at test theta (with lambda = 10): 0.003641
+
+Cost at test theta (with lambda = 10): -0.014324
+
+Cost at test theta (with lambda = 10): 0.056342
+
+Cost at test theta (with lambda = 10): 0.000129
+
+Cost at test theta (with lambda = 10): -0.000506
+
+Cost at test theta (with lambda = 10): 0.001988
+
+Cost at test theta (with lambda = 10): -0.007821
+
+Cost at test theta (with lambda = 10): 0.030765
+
+Cost at test theta (with lambda = 10): -0.000018
+
+Cost at test theta (with lambda = 10): 0.000070
+
+Cost at test theta (with lambda = 10): -0.000276
+
+Cost at test theta (with lambda = 10): 0.001086
+
+Cost at test theta (with lambda = 10): -0.004271
+
+Cost at test theta (with lambda = 10): 0.016799
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): -0.000010
+
+Cost at test theta (with lambda = 10): 0.000038
+
+Cost at test theta (with lambda = 10): -0.000151
+
+Cost at test theta (with lambda = 10): 0.000593
+
+Cost at test theta (with lambda = 10): -0.002332
+
+Cost at test theta (with lambda = 10): 0.009173
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.101858
+
+Cost at test theta (with lambda = 10): 0.269905
+
+Cost at test theta (with lambda = 10): 0.029982
+
+Cost at test theta (with lambda = 10): -0.079446
+
+Cost at test theta (with lambda = 10): 0.210518
+
+Cost at test theta (with lambda = 10): -0.008825
+
+Cost at test theta (with lambda = 10): 0.023385
+
+Cost at test theta (with lambda = 10): -0.061966
+
+Cost at test theta (with lambda = 10): 0.164197
+
+Cost at test theta (with lambda = 10): 0.002598
+
+Cost at test theta (with lambda = 10): -0.006883
+
+Cost at test theta (with lambda = 10): 0.018240
+
+Cost at test theta (with lambda = 10): -0.048332
+
+Cost at test theta (with lambda = 10): 0.128069
+
+Cost at test theta (with lambda = 10): -0.000765
+
+Cost at test theta (with lambda = 10): 0.002026
+
+Cost at test theta (with lambda = 10): -0.005369
+
+Cost at test theta (with lambda = 10): 0.014226
+
+Cost at test theta (with lambda = 10): -0.037697
+
+Cost at test theta (with lambda = 10): 0.099890
+
+Cost at test theta (with lambda = 10): 0.000225
+
+Cost at test theta (with lambda = 10): -0.000596
+
+Cost at test theta (with lambda = 10): 0.001580
+
+Cost at test theta (with lambda = 10): -0.004188
+
+Cost at test theta (with lambda = 10): 0.011096
+
+Cost at test theta (with lambda = 10): -0.029403
+
+Cost at test theta (with lambda = 10): 0.077911
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.091892
+
+Cost at test theta (with lambda = 10): 0.333145
+
+Cost at test theta (with lambda = 10): 0.024402
+
+Cost at test theta (with lambda = 10): -0.088467
+
+Cost at test theta (with lambda = 10): 0.320725
+
+Cost at test theta (with lambda = 10): -0.006480
+
+Cost at test theta (with lambda = 10): 0.023492
+
+Cost at test theta (with lambda = 10): -0.085168
+
+Cost at test theta (with lambda = 10): 0.308768
+
+Cost at test theta (with lambda = 10): 0.001721
+
+Cost at test theta (with lambda = 10): -0.006238
+
+Cost at test theta (with lambda = 10): 0.022616
+
+Cost at test theta (with lambda = 10): -0.081993
+
+Cost at test theta (with lambda = 10): 0.297257
+
+Cost at test theta (with lambda = 10): -0.000457
+
+Cost at test theta (with lambda = 10): 0.001657
+
+Cost at test theta (with lambda = 10): -0.006006
+
+Cost at test theta (with lambda = 10): 0.021773
+
+Cost at test theta (with lambda = 10): -0.078937
+
+Cost at test theta (with lambda = 10): 0.286176
+
+Cost at test theta (with lambda = 10): 0.000121
+
+Cost at test theta (with lambda = 10): -0.000440
+
+Cost at test theta (with lambda = 10): 0.001595
+
+Cost at test theta (with lambda = 10): -0.005782
+
+Cost at test theta (with lambda = 10): 0.020962
+
+Cost at test theta (with lambda = 10): -0.075994
+
+Cost at test theta (with lambda = 10): 0.275507
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.056014
+
+Cost at test theta (with lambda = 10): 0.277494
+
+Cost at test theta (with lambda = 10): 0.009067
+
+Cost at test theta (with lambda = 10): -0.044918
+
+Cost at test theta (with lambda = 10): 0.222522
+
+Cost at test theta (with lambda = 10): -0.001468
+
+Cost at test theta (with lambda = 10): 0.007271
+
+Cost at test theta (with lambda = 10): -0.036020
+
+Cost at test theta (with lambda = 10): 0.178440
+
+Cost at test theta (with lambda = 10): 0.000238
+
+Cost at test theta (with lambda = 10): -0.001177
+
+Cost at test theta (with lambda = 10): 0.005831
+
+Cost at test theta (with lambda = 10): -0.028884
+
+Cost at test theta (with lambda = 10): 0.143091
+
+Cost at test theta (with lambda = 10): -0.000038
+
+Cost at test theta (with lambda = 10): 0.000191
+
+Cost at test theta (with lambda = 10): -0.000944
+
+Cost at test theta (with lambda = 10): 0.004675
+
+Cost at test theta (with lambda = 10): -0.023162
+
+Cost at test theta (with lambda = 10): 0.114745
+
+Cost at test theta (with lambda = 10): 0.000006
+
+Cost at test theta (with lambda = 10): -0.000031
+
+Cost at test theta (with lambda = 10): 0.000153
+
+Cost at test theta (with lambda = 10): -0.000757
+
+Cost at test theta (with lambda = 10): 0.003749
+
+Cost at test theta (with lambda = 10): -0.018574
+
+Cost at test theta (with lambda = 10): 0.092014
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.060001
+
+Cost at test theta (with lambda = 10): 0.224372
+
+Cost at test theta (with lambda = 10): 0.010404
+
+Cost at test theta (with lambda = 10): -0.038904
+
+Cost at test theta (with lambda = 10): 0.145481
+
+Cost at test theta (with lambda = 10): -0.001804
+
+Cost at test theta (with lambda = 10): 0.006746
+
+Cost at test theta (with lambda = 10): -0.025225
+
+Cost at test theta (with lambda = 10): 0.094328
+
+Cost at test theta (with lambda = 10): 0.000313
+
+Cost at test theta (with lambda = 10): -0.001170
+
+Cost at test theta (with lambda = 10): 0.004374
+
+Cost at test theta (with lambda = 10): -0.016356
+
+Cost at test theta (with lambda = 10): 0.061161
+
+Cost at test theta (with lambda = 10): -0.000054
+
+Cost at test theta (with lambda = 10): 0.000203
+
+Cost at test theta (with lambda = 10): -0.000758
+
+Cost at test theta (with lambda = 10): 0.002836
+
+Cost at test theta (with lambda = 10): -0.010605
+
+Cost at test theta (with lambda = 10): 0.039656
+
+Cost at test theta (with lambda = 10): 0.000009
+
+Cost at test theta (with lambda = 10): -0.000035
+
+Cost at test theta (with lambda = 10): 0.000131
+
+Cost at test theta (with lambda = 10): -0.000492
+
+Cost at test theta (with lambda = 10): 0.001839
+
+Cost at test theta (with lambda = 10): -0.006876
+
+Cost at test theta (with lambda = 10): 0.025713
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.097872
+
+Cost at test theta (with lambda = 10): 0.163662
+
+Cost at test theta (with lambda = 10): 0.027681
+
+Cost at test theta (with lambda = 10): -0.046289
+
+Cost at test theta (with lambda = 10): 0.077404
+
+Cost at test theta (with lambda = 10): -0.007829
+
+Cost at test theta (with lambda = 10): 0.013092
+
+Cost at test theta (with lambda = 10): -0.021892
+
+Cost at test theta (with lambda = 10): 0.036608
+
+Cost at test theta (with lambda = 10): 0.002214
+
+Cost at test theta (with lambda = 10): -0.003703
+
+Cost at test theta (with lambda = 10): 0.006192
+
+Cost at test theta (with lambda = 10): -0.010354
+
+Cost at test theta (with lambda = 10): 0.017314
+
+Cost at test theta (with lambda = 10): -0.000626
+
+Cost at test theta (with lambda = 10): 0.001047
+
+Cost at test theta (with lambda = 10): -0.001751
+
+Cost at test theta (with lambda = 10): 0.002928
+
+Cost at test theta (with lambda = 10): -0.004897
+
+Cost at test theta (with lambda = 10): 0.008189
+
+Cost at test theta (with lambda = 10): 0.000177
+
+Cost at test theta (with lambda = 10): -0.000296
+
+Cost at test theta (with lambda = 10): 0.000495
+
+Cost at test theta (with lambda = 10): -0.000828
+
+Cost at test theta (with lambda = 10): 0.001385
+
+Cost at test theta (with lambda = 10): -0.002316
+
+Cost at test theta (with lambda = 10): 0.003873
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.125780
+
+Cost at test theta (with lambda = 10): 0.108011
+
+Cost at test theta (with lambda = 10): 0.045719
+
+Cost at test theta (with lambda = 10): -0.039260
+
+Cost at test theta (with lambda = 10): 0.033713
+
+Cost at test theta (with lambda = 10): -0.016618
+
+Cost at test theta (with lambda = 10): 0.014270
+
+Cost at test theta (with lambda = 10): -0.012254
+
+Cost at test theta (with lambda = 10): 0.010523
+
+Cost at test theta (with lambda = 10): 0.006040
+
+Cost at test theta (with lambda = 10): -0.005187
+
+Cost at test theta (with lambda = 10): 0.004454
+
+Cost at test theta (with lambda = 10): -0.003825
+
+Cost at test theta (with lambda = 10): 0.003285
+
+Cost at test theta (with lambda = 10): -0.002196
+
+Cost at test theta (with lambda = 10): 0.001885
+
+Cost at test theta (with lambda = 10): -0.001619
+
+Cost at test theta (with lambda = 10): 0.001390
+
+Cost at test theta (with lambda = 10): -0.001194
+
+Cost at test theta (with lambda = 10): 0.001025
+
+Cost at test theta (with lambda = 10): 0.000798
+
+Cost at test theta (with lambda = 10): -0.000685
+
+Cost at test theta (with lambda = 10): 0.000588
+
+Cost at test theta (with lambda = 10): -0.000505
+
+Cost at test theta (with lambda = 10): 0.000434
+
+Cost at test theta (with lambda = 10): -0.000373
+
+Cost at test theta (with lambda = 10): 0.000320
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.103855
+
+Cost at test theta (with lambda = 10): 0.009359
+
+Cost at test theta (with lambda = 10): 0.031169
+
+Cost at test theta (with lambda = 10): -0.002809
+
+Cost at test theta (with lambda = 10): 0.000253
+
+Cost at test theta (with lambda = 10): -0.009354
+
+Cost at test theta (with lambda = 10): 0.000843
+
+Cost at test theta (with lambda = 10): -0.000076
+
+Cost at test theta (with lambda = 10): 0.000007
+
+Cost at test theta (with lambda = 10): 0.002807
+
+Cost at test theta (with lambda = 10): -0.000253
+
+Cost at test theta (with lambda = 10): 0.000023
+
+Cost at test theta (with lambda = 10): -0.000002
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000843
+
+Cost at test theta (with lambda = 10): 0.000076
+
+Cost at test theta (with lambda = 10): -0.000007
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000253
+
+Cost at test theta (with lambda = 10): -0.000023
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.081926
+
+Cost at test theta (with lambda = 10): -0.074116
+
+Cost at test theta (with lambda = 10): 0.019396
+
+Cost at test theta (with lambda = 10): 0.017547
+
+Cost at test theta (with lambda = 10): 0.015874
+
+Cost at test theta (with lambda = 10): -0.004592
+
+Cost at test theta (with lambda = 10): -0.004154
+
+Cost at test theta (with lambda = 10): -0.003758
+
+Cost at test theta (with lambda = 10): -0.003400
+
+Cost at test theta (with lambda = 10): 0.001087
+
+Cost at test theta (with lambda = 10): 0.000984
+
+Cost at test theta (with lambda = 10): 0.000890
+
+Cost at test theta (with lambda = 10): 0.000805
+
+Cost at test theta (with lambda = 10): 0.000728
+
+Cost at test theta (with lambda = 10): -0.000257
+
+Cost at test theta (with lambda = 10): -0.000233
+
+Cost at test theta (with lambda = 10): -0.000211
+
+Cost at test theta (with lambda = 10): -0.000191
+
+Cost at test theta (with lambda = 10): -0.000172
+
+Cost at test theta (with lambda = 10): -0.000156
+
+Cost at test theta (with lambda = 10): 0.000061
+
+Cost at test theta (with lambda = 10): 0.000055
+
+Cost at test theta (with lambda = 10): 0.000050
+
+Cost at test theta (with lambda = 10): 0.000045
+
+Cost at test theta (with lambda = 10): 0.000041
+
+Cost at test theta (with lambda = 10): 0.000037
+
+Cost at test theta (with lambda = 10): 0.000033
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.022126
+
+Cost at test theta (with lambda = 10): -0.063998
+
+Cost at test theta (with lambda = 10): 0.001415
+
+Cost at test theta (with lambda = 10): 0.004092
+
+Cost at test theta (with lambda = 10): 0.011836
+
+Cost at test theta (with lambda = 10): -0.000090
+
+Cost at test theta (with lambda = 10): -0.000262
+
+Cost at test theta (with lambda = 10): -0.000757
+
+Cost at test theta (with lambda = 10): -0.002189
+
+Cost at test theta (with lambda = 10): 0.000006
+
+Cost at test theta (with lambda = 10): 0.000017
+
+Cost at test theta (with lambda = 10): 0.000048
+
+Cost at test theta (with lambda = 10): 0.000140
+
+Cost at test theta (with lambda = 10): 0.000405
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): -0.000003
+
+Cost at test theta (with lambda = 10): -0.000009
+
+Cost at test theta (with lambda = 10): -0.000026
+
+Cost at test theta (with lambda = 10): -0.000075
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.000005
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.021727
+
+Cost at test theta (with lambda = 10): -0.056409
+
+Cost at test theta (with lambda = 10): 0.001364
+
+Cost at test theta (with lambda = 10): -0.003542
+
+Cost at test theta (with lambda = 10): 0.009195
+
+Cost at test theta (with lambda = 10): 0.000086
+
+Cost at test theta (with lambda = 10): -0.000222
+
+Cost at test theta (with lambda = 10): 0.000577
+
+Cost at test theta (with lambda = 10): -0.001499
+
+Cost at test theta (with lambda = 10): 0.000005
+
+Cost at test theta (with lambda = 10): -0.000014
+
+Cost at test theta (with lambda = 10): 0.000036
+
+Cost at test theta (with lambda = 10): -0.000094
+
+Cost at test theta (with lambda = 10): 0.000244
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): -0.000006
+
+Cost at test theta (with lambda = 10): 0.000015
+
+Cost at test theta (with lambda = 10): -0.000040
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): -0.000003
+
+Cost at test theta (with lambda = 10): 0.000006
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.079535
+
+Cost at test theta (with lambda = 10): -0.142415
+
+Cost at test theta (with lambda = 10): 0.018280
+
+Cost at test theta (with lambda = 10): -0.032733
+
+Cost at test theta (with lambda = 10): 0.058611
+
+Cost at test theta (with lambda = 10): 0.004202
+
+Cost at test theta (with lambda = 10): -0.007523
+
+Cost at test theta (with lambda = 10): 0.013471
+
+Cost at test theta (with lambda = 10): -0.024121
+
+Cost at test theta (with lambda = 10): 0.000966
+
+Cost at test theta (with lambda = 10): -0.001729
+
+Cost at test theta (with lambda = 10): 0.003096
+
+Cost at test theta (with lambda = 10): -0.005544
+
+Cost at test theta (with lambda = 10): 0.009927
+
+Cost at test theta (with lambda = 10): 0.000222
+
+Cost at test theta (with lambda = 10): -0.000397
+
+Cost at test theta (with lambda = 10): 0.000712
+
+Cost at test theta (with lambda = 10): -0.001274
+
+Cost at test theta (with lambda = 10): 0.002282
+
+Cost at test theta (with lambda = 10): -0.004086
+
+Cost at test theta (with lambda = 10): 0.000051
+
+Cost at test theta (with lambda = 10): -0.000091
+
+Cost at test theta (with lambda = 10): 0.000164
+
+Cost at test theta (with lambda = 10): -0.000293
+
+Cost at test theta (with lambda = 10): 0.000524
+
+Cost at test theta (with lambda = 10): -0.000939
+
+Cost at test theta (with lambda = 10): 0.001681
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.101460
+
+Cost at test theta (with lambda = 10): -0.079175
+
+Cost at test theta (with lambda = 10): 0.029748
+
+Cost at test theta (with lambda = 10): -0.023214
+
+Cost at test theta (with lambda = 10): 0.018115
+
+Cost at test theta (with lambda = 10): 0.008722
+
+Cost at test theta (with lambda = 10): -0.006806
+
+Cost at test theta (with lambda = 10): 0.005311
+
+Cost at test theta (with lambda = 10): -0.004145
+
+Cost at test theta (with lambda = 10): 0.002557
+
+Cost at test theta (with lambda = 10): -0.001996
+
+Cost at test theta (with lambda = 10): 0.001557
+
+Cost at test theta (with lambda = 10): -0.001215
+
+Cost at test theta (with lambda = 10): 0.000948
+
+Cost at test theta (with lambda = 10): 0.000750
+
+Cost at test theta (with lambda = 10): -0.000585
+
+Cost at test theta (with lambda = 10): 0.000457
+
+Cost at test theta (with lambda = 10): -0.000356
+
+Cost at test theta (with lambda = 10): 0.000278
+
+Cost at test theta (with lambda = 10): -0.000217
+
+Cost at test theta (with lambda = 10): 0.000220
+
+Cost at test theta (with lambda = 10): -0.000172
+
+Cost at test theta (with lambda = 10): 0.000134
+
+Cost at test theta (with lambda = 10): -0.000104
+
+Cost at test theta (with lambda = 10): 0.000082
+
+Cost at test theta (with lambda = 10): -0.000064
+
+Cost at test theta (with lambda = 10): 0.000050
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.167240
+
+Cost at test theta (with lambda = 10): -0.063998
+
+Cost at test theta (with lambda = 10): 0.080825
+
+Cost at test theta (with lambda = 10): -0.030929
+
+Cost at test theta (with lambda = 10): 0.011836
+
+Cost at test theta (with lambda = 10): 0.039062
+
+Cost at test theta (with lambda = 10): -0.014948
+
+Cost at test theta (with lambda = 10): 0.005720
+
+Cost at test theta (with lambda = 10): -0.002189
+
+Cost at test theta (with lambda = 10): 0.018878
+
+Cost at test theta (with lambda = 10): -0.007224
+
+Cost at test theta (with lambda = 10): 0.002764
+
+Cost at test theta (with lambda = 10): -0.001058
+
+Cost at test theta (with lambda = 10): 0.000405
+
+Cost at test theta (with lambda = 10): 0.009124
+
+Cost at test theta (with lambda = 10): -0.003491
+
+Cost at test theta (with lambda = 10): 0.001336
+
+Cost at test theta (with lambda = 10): -0.000511
+
+Cost at test theta (with lambda = 10): 0.000196
+
+Cost at test theta (with lambda = 10): -0.000075
+
+Cost at test theta (with lambda = 10): 0.004409
+
+Cost at test theta (with lambda = 10): -0.001687
+
+Cost at test theta (with lambda = 10): 0.000646
+
+Cost at test theta (with lambda = 10): -0.000247
+
+Cost at test theta (with lambda = 10): 0.000095
+
+Cost at test theta (with lambda = 10): -0.000036
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.223057
+
+Cost at test theta (with lambda = 10): -0.048820
+
+Cost at test theta (with lambda = 10): 0.143780
+
+Cost at test theta (with lambda = 10): -0.031469
+
+Cost at test theta (with lambda = 10): 0.006888
+
+Cost at test theta (with lambda = 10): 0.092679
+
+Cost at test theta (with lambda = 10): -0.020285
+
+Cost at test theta (with lambda = 10): 0.004440
+
+Cost at test theta (with lambda = 10): -0.000972
+
+Cost at test theta (with lambda = 10): 0.059740
+
+Cost at test theta (with lambda = 10): -0.013075
+
+Cost at test theta (with lambda = 10): 0.002862
+
+Cost at test theta (with lambda = 10): -0.000626
+
+Cost at test theta (with lambda = 10): 0.000137
+
+Cost at test theta (with lambda = 10): 0.038508
+
+Cost at test theta (with lambda = 10): -0.008428
+
+Cost at test theta (with lambda = 10): 0.001845
+
+Cost at test theta (with lambda = 10): -0.000404
+
+Cost at test theta (with lambda = 10): 0.000088
+
+Cost at test theta (with lambda = 10): -0.000019
+
+Cost at test theta (with lambda = 10): 0.024822
+
+Cost at test theta (with lambda = 10): -0.005433
+
+Cost at test theta (with lambda = 10): 0.001189
+
+Cost at test theta (with lambda = 10): -0.000260
+
+Cost at test theta (with lambda = 10): 0.000057
+
+Cost at test theta (with lambda = 10): -0.000012
+
+Cost at test theta (with lambda = 10): 0.000003
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.159267
+
+Cost at test theta (with lambda = 10): 0.004300
+
+Cost at test theta (with lambda = 10): 0.073303
+
+Cost at test theta (with lambda = 10): 0.001979
+
+Cost at test theta (with lambda = 10): 0.000053
+
+Cost at test theta (with lambda = 10): 0.033738
+
+Cost at test theta (with lambda = 10): 0.000911
+
+Cost at test theta (with lambda = 10): 0.000025
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): 0.015528
+
+Cost at test theta (with lambda = 10): 0.000419
+
+Cost at test theta (with lambda = 10): 0.000011
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.007147
+
+Cost at test theta (with lambda = 10): 0.000193
+
+Cost at test theta (with lambda = 10): 0.000005
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.003289
+
+Cost at test theta (with lambda = 10): 0.000089
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.217074
+
+Cost at test theta (with lambda = 10): 0.054893
+
+Cost at test theta (with lambda = 10): 0.136171
+
+Cost at test theta (with lambda = 10): 0.034434
+
+Cost at test theta (with lambda = 10): 0.008708
+
+Cost at test theta (with lambda = 10): 0.085420
+
+Cost at test theta (with lambda = 10): 0.021601
+
+Cost at test theta (with lambda = 10): 0.005462
+
+Cost at test theta (with lambda = 10): 0.001381
+
+Cost at test theta (with lambda = 10): 0.053584
+
+Cost at test theta (with lambda = 10): 0.013550
+
+Cost at test theta (with lambda = 10): 0.003427
+
+Cost at test theta (with lambda = 10): 0.000866
+
+Cost at test theta (with lambda = 10): 0.000219
+
+Cost at test theta (with lambda = 10): 0.033613
+
+Cost at test theta (with lambda = 10): 0.008500
+
+Cost at test theta (with lambda = 10): 0.002149
+
+Cost at test theta (with lambda = 10): 0.000544
+
+Cost at test theta (with lambda = 10): 0.000137
+
+Cost at test theta (with lambda = 10): 0.000035
+
+Cost at test theta (with lambda = 10): 0.021086
+
+Cost at test theta (with lambda = 10): 0.005332
+
+Cost at test theta (with lambda = 10): 0.001348
+
+Cost at test theta (with lambda = 10): 0.000341
+
+Cost at test theta (with lambda = 10): 0.000086
+
+Cost at test theta (with lambda = 10): 0.000022
+
+Cost at test theta (with lambda = 10): 0.000006
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.199135
+
+Cost at test theta (with lambda = 10): 0.092834
+
+Cost at test theta (with lambda = 10): 0.114594
+
+Cost at test theta (with lambda = 10): 0.053422
+
+Cost at test theta (with lambda = 10): 0.024904
+
+Cost at test theta (with lambda = 10): 0.065944
+
+Cost at test theta (with lambda = 10): 0.030742
+
+Cost at test theta (with lambda = 10): 0.014332
+
+Cost at test theta (with lambda = 10): 0.006681
+
+Cost at test theta (with lambda = 10): 0.037948
+
+Cost at test theta (with lambda = 10): 0.017691
+
+Cost at test theta (with lambda = 10): 0.008247
+
+Cost at test theta (with lambda = 10): 0.003845
+
+Cost at test theta (with lambda = 10): 0.001792
+
+Cost at test theta (with lambda = 10): 0.021838
+
+Cost at test theta (with lambda = 10): 0.010180
+
+Cost at test theta (with lambda = 10): 0.004746
+
+Cost at test theta (with lambda = 10): 0.002212
+
+Cost at test theta (with lambda = 10): 0.001031
+
+Cost at test theta (with lambda = 10): 0.000481
+
+Cost at test theta (with lambda = 10): 0.012567
+
+Cost at test theta (with lambda = 10): 0.005858
+
+Cost at test theta (with lambda = 10): 0.002731
+
+Cost at test theta (with lambda = 10): 0.001273
+
+Cost at test theta (with lambda = 10): 0.000594
+
+Cost at test theta (with lambda = 10): 0.000277
+
+Cost at test theta (with lambda = 10): 0.000129
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.250962
+
+Cost at test theta (with lambda = 10): 0.153544
+
+Cost at test theta (with lambda = 10): 0.182005
+
+Cost at test theta (with lambda = 10): 0.111354
+
+Cost at test theta (with lambda = 10): 0.068129
+
+Cost at test theta (with lambda = 10): 0.131996
+
+Cost at test theta (with lambda = 10): 0.080758
+
+Cost at test theta (with lambda = 10): 0.049409
+
+Cost at test theta (with lambda = 10): 0.030229
+
+Cost at test theta (with lambda = 10): 0.095727
+
+Cost at test theta (with lambda = 10): 0.058568
+
+Cost at test theta (with lambda = 10): 0.035833
+
+Cost at test theta (with lambda = 10): 0.021923
+
+Cost at test theta (with lambda = 10): 0.013413
+
+Cost at test theta (with lambda = 10): 0.069424
+
+Cost at test theta (with lambda = 10): 0.042475
+
+Cost at test theta (with lambda = 10): 0.025987
+
+Cost at test theta (with lambda = 10): 0.015899
+
+Cost at test theta (with lambda = 10): 0.009728
+
+Cost at test theta (with lambda = 10): 0.005952
+
+Cost at test theta (with lambda = 10): 0.050349
+
+Cost at test theta (with lambda = 10): 0.030804
+
+Cost at test theta (with lambda = 10): 0.018847
+
+Cost at test theta (with lambda = 10): 0.011531
+
+Cost at test theta (with lambda = 10): 0.007055
+
+Cost at test theta (with lambda = 10): 0.004316
+
+Cost at test theta (with lambda = 10): 0.002641
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.077542
+
+Cost at test theta (with lambda = 10): 0.181369
+
+Cost at test theta (with lambda = 10): 0.017376
+
+Cost at test theta (with lambda = 10): 0.040641
+
+Cost at test theta (with lambda = 10): 0.095059
+
+Cost at test theta (with lambda = 10): 0.003894
+
+Cost at test theta (with lambda = 10): 0.009107
+
+Cost at test theta (with lambda = 10): 0.021301
+
+Cost at test theta (with lambda = 10): 0.049822
+
+Cost at test theta (with lambda = 10): 0.000872
+
+Cost at test theta (with lambda = 10): 0.002041
+
+Cost at test theta (with lambda = 10): 0.004773
+
+Cost at test theta (with lambda = 10): 0.011164
+
+Cost at test theta (with lambda = 10): 0.026113
+
+Cost at test theta (with lambda = 10): 0.000196
+
+Cost at test theta (with lambda = 10): 0.000457
+
+Cost at test theta (with lambda = 10): 0.001070
+
+Cost at test theta (with lambda = 10): 0.002502
+
+Cost at test theta (with lambda = 10): 0.005851
+
+Cost at test theta (with lambda = 10): 0.013686
+
+Cost at test theta (with lambda = 10): 0.000044
+
+Cost at test theta (with lambda = 10): 0.000102
+
+Cost at test theta (with lambda = 10): 0.000240
+
+Cost at test theta (with lambda = 10): 0.000561
+
+Cost at test theta (with lambda = 10): 0.001311
+
+Cost at test theta (with lambda = 10): 0.003067
+
+Cost at test theta (with lambda = 10): 0.007173
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.153288
+
+Cost at test theta (with lambda = 10): 0.231961
+
+Cost at test theta (with lambda = 10): 0.067902
+
+Cost at test theta (with lambda = 10): 0.102752
+
+Cost at test theta (with lambda = 10): 0.155488
+
+Cost at test theta (with lambda = 10): 0.030078
+
+Cost at test theta (with lambda = 10): 0.045516
+
+Cost at test theta (with lambda = 10): 0.068877
+
+Cost at test theta (with lambda = 10): 0.104227
+
+Cost at test theta (with lambda = 10): 0.013324
+
+Cost at test theta (with lambda = 10): 0.020162
+
+Cost at test theta (with lambda = 10): 0.030510
+
+Cost at test theta (with lambda = 10): 0.046169
+
+Cost at test theta (with lambda = 10): 0.069865
+
+Cost at test theta (with lambda = 10): 0.005902
+
+Cost at test theta (with lambda = 10): 0.008931
+
+Cost at test theta (with lambda = 10): 0.013515
+
+Cost at test theta (with lambda = 10): 0.020452
+
+Cost at test theta (with lambda = 10): 0.030948
+
+Cost at test theta (with lambda = 10): 0.046832
+
+Cost at test theta (with lambda = 10): 0.002614
+
+Cost at test theta (with lambda = 10): 0.003956
+
+Cost at test theta (with lambda = 10): 0.005987
+
+Cost at test theta (with lambda = 10): 0.009059
+
+Cost at test theta (with lambda = 10): 0.013709
+
+Cost at test theta (with lambda = 10): 0.020745
+
+Cost at test theta (with lambda = 10): 0.031392
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.111427
+
+Cost at test theta (with lambda = 10): 0.239550
+
+Cost at test theta (with lambda = 10): 0.035879
+
+Cost at test theta (with lambda = 10): 0.077135
+
+Cost at test theta (with lambda = 10): 0.165828
+
+Cost at test theta (with lambda = 10): 0.011553
+
+Cost at test theta (with lambda = 10): 0.024837
+
+Cost at test theta (with lambda = 10): 0.053397
+
+Cost at test theta (with lambda = 10): 0.114795
+
+Cost at test theta (with lambda = 10): 0.003720
+
+Cost at test theta (with lambda = 10): 0.007998
+
+Cost at test theta (with lambda = 10): 0.017194
+
+Cost at test theta (with lambda = 10): 0.036964
+
+Cost at test theta (with lambda = 10): 0.079467
+
+Cost at test theta (with lambda = 10): 0.001198
+
+Cost at test theta (with lambda = 10): 0.002575
+
+Cost at test theta (with lambda = 10): 0.005536
+
+Cost at test theta (with lambda = 10): 0.011902
+
+Cost at test theta (with lambda = 10): 0.025588
+
+Cost at test theta (with lambda = 10): 0.055011
+
+Cost at test theta (with lambda = 10): 0.000386
+
+Cost at test theta (with lambda = 10): 0.000829
+
+Cost at test theta (with lambda = 10): 0.001783
+
+Cost at test theta (with lambda = 10): 0.003833
+
+Cost at test theta (with lambda = 10): 0.008239
+
+Cost at test theta (with lambda = 10): 0.017713
+
+Cost at test theta (with lambda = 10): 0.038081
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.047640
+
+Cost at test theta (with lambda = 10): 0.199076
+
+Cost at test theta (with lambda = 10): 0.006559
+
+Cost at test theta (with lambda = 10): 0.027407
+
+Cost at test theta (with lambda = 10): 0.114527
+
+Cost at test theta (with lambda = 10): 0.000903
+
+Cost at test theta (with lambda = 10): 0.003773
+
+Cost at test theta (with lambda = 10): 0.015767
+
+Cost at test theta (with lambda = 10): 0.065886
+
+Cost at test theta (with lambda = 10): 0.000124
+
+Cost at test theta (with lambda = 10): 0.000519
+
+Cost at test theta (with lambda = 10): 0.002171
+
+Cost at test theta (with lambda = 10): 0.009071
+
+Cost at test theta (with lambda = 10): 0.037904
+
+Cost at test theta (with lambda = 10): 0.000017
+
+Cost at test theta (with lambda = 10): 0.000072
+
+Cost at test theta (with lambda = 10): 0.000299
+
+Cost at test theta (with lambda = 10): 0.001249
+
+Cost at test theta (with lambda = 10): 0.005218
+
+Cost at test theta (with lambda = 10): 0.021806
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.000010
+
+Cost at test theta (with lambda = 10): 0.000041
+
+Cost at test theta (with lambda = 10): 0.000172
+
+Cost at test theta (with lambda = 10): 0.000718
+
+Cost at test theta (with lambda = 10): 0.003002
+
+Cost at test theta (with lambda = 10): 0.012545
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.002193
+
+Cost at test theta (with lambda = 10): 0.138366
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): -0.000877
+
+Cost at test theta (with lambda = 10): 0.055326
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000006
+
+Cost at test theta (with lambda = 10): -0.000351
+
+Cost at test theta (with lambda = 10): 0.022122
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): -0.000140
+
+Cost at test theta (with lambda = 10): 0.008845
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): -0.000056
+
+Cost at test theta (with lambda = 10): 0.003537
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000022
+
+Cost at test theta (with lambda = 10): 0.001414
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.032093
+
+Cost at test theta (with lambda = 10): 0.191488
+
+Cost at test theta (with lambda = 10): 0.002976
+
+Cost at test theta (with lambda = 10): -0.017759
+
+Cost at test theta (with lambda = 10): 0.105962
+
+Cost at test theta (with lambda = 10): -0.000276
+
+Cost at test theta (with lambda = 10): 0.001647
+
+Cost at test theta (with lambda = 10): -0.009827
+
+Cost at test theta (with lambda = 10): 0.058635
+
+Cost at test theta (with lambda = 10): 0.000026
+
+Cost at test theta (with lambda = 10): -0.000153
+
+Cost at test theta (with lambda = 10): 0.000911
+
+Cost at test theta (with lambda = 10): -0.005438
+
+Cost at test theta (with lambda = 10): 0.032446
+
+Cost at test theta (with lambda = 10): -0.000002
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): -0.000085
+
+Cost at test theta (with lambda = 10): 0.000504
+
+Cost at test theta (with lambda = 10): -0.003009
+
+Cost at test theta (with lambda = 10): 0.017954
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.000008
+
+Cost at test theta (with lambda = 10): -0.000047
+
+Cost at test theta (with lambda = 10): 0.000279
+
+Cost at test theta (with lambda = 10): -0.001665
+
+Cost at test theta (with lambda = 10): 0.009935
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.071960
+
+Cost at test theta (with lambda = 10): 0.123189
+
+Cost at test theta (with lambda = 10): 0.014964
+
+Cost at test theta (with lambda = 10): -0.025617
+
+Cost at test theta (with lambda = 10): 0.043854
+
+Cost at test theta (with lambda = 10): -0.003112
+
+Cost at test theta (with lambda = 10): 0.005327
+
+Cost at test theta (with lambda = 10): -0.009119
+
+Cost at test theta (with lambda = 10): 0.015612
+
+Cost at test theta (with lambda = 10): 0.000647
+
+Cost at test theta (with lambda = 10): -0.001108
+
+Cost at test theta (with lambda = 10): 0.001896
+
+Cost at test theta (with lambda = 10): -0.003246
+
+Cost at test theta (with lambda = 10): 0.005558
+
+Cost at test theta (with lambda = 10): -0.000135
+
+Cost at test theta (with lambda = 10): 0.000230
+
+Cost at test theta (with lambda = 10): -0.000394
+
+Cost at test theta (with lambda = 10): 0.000675
+
+Cost at test theta (with lambda = 10): -0.001156
+
+Cost at test theta (with lambda = 10): 0.001978
+
+Cost at test theta (with lambda = 10): 0.000028
+
+Cost at test theta (with lambda = 10): -0.000048
+
+Cost at test theta (with lambda = 10): 0.000082
+
+Cost at test theta (with lambda = 10): -0.000140
+
+Cost at test theta (with lambda = 10): 0.000240
+
+Cost at test theta (with lambda = 10): -0.000411
+
+Cost at test theta (with lambda = 10): 0.000704
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.071960
+
+Cost at test theta (with lambda = 10): 0.059952
+
+Cost at test theta (with lambda = 10): 0.014964
+
+Cost at test theta (with lambda = 10): -0.012467
+
+Cost at test theta (with lambda = 10): 0.010387
+
+Cost at test theta (with lambda = 10): -0.003112
+
+Cost at test theta (with lambda = 10): 0.002593
+
+Cost at test theta (with lambda = 10): -0.002160
+
+Cost at test theta (with lambda = 10): 0.001800
+
+Cost at test theta (with lambda = 10): 0.000647
+
+Cost at test theta (with lambda = 10): -0.000539
+
+Cost at test theta (with lambda = 10): 0.000449
+
+Cost at test theta (with lambda = 10): -0.000374
+
+Cost at test theta (with lambda = 10): 0.000312
+
+Cost at test theta (with lambda = 10): -0.000135
+
+Cost at test theta (with lambda = 10): 0.000112
+
+Cost at test theta (with lambda = 10): -0.000093
+
+Cost at test theta (with lambda = 10): 0.000078
+
+Cost at test theta (with lambda = 10): -0.000065
+
+Cost at test theta (with lambda = 10): 0.000054
+
+Cost at test theta (with lambda = 10): 0.000028
+
+Cost at test theta (with lambda = 10): -0.000023
+
+Cost at test theta (with lambda = 10): 0.000019
+
+Cost at test theta (with lambda = 10): -0.000016
+
+Cost at test theta (with lambda = 10): 0.000013
+
+Cost at test theta (with lambda = 10): -0.000011
+
+Cost at test theta (with lambda = 10): 0.000009
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.151692
+
+Cost at test theta (with lambda = 10): 0.075130
+
+Cost at test theta (with lambda = 10): 0.066496
+
+Cost at test theta (with lambda = 10): -0.032934
+
+Cost at test theta (with lambda = 10): 0.016311
+
+Cost at test theta (with lambda = 10): -0.029149
+
+Cost at test theta (with lambda = 10): 0.014437
+
+Cost at test theta (with lambda = 10): -0.007150
+
+Cost at test theta (with lambda = 10): 0.003541
+
+Cost at test theta (with lambda = 10): 0.012778
+
+Cost at test theta (with lambda = 10): -0.006329
+
+Cost at test theta (with lambda = 10): 0.003134
+
+Cost at test theta (with lambda = 10): -0.001552
+
+Cost at test theta (with lambda = 10): 0.000769
+
+Cost at test theta (with lambda = 10): -0.005601
+
+Cost at test theta (with lambda = 10): 0.002774
+
+Cost at test theta (with lambda = 10): -0.001374
+
+Cost at test theta (with lambda = 10): 0.000681
+
+Cost at test theta (with lambda = 10): -0.000337
+
+Cost at test theta (with lambda = 10): 0.000167
+
+Cost at test theta (with lambda = 10): 0.002455
+
+Cost at test theta (with lambda = 10): -0.001216
+
+Cost at test theta (with lambda = 10): 0.000602
+
+Cost at test theta (with lambda = 10): -0.000298
+
+Cost at test theta (with lambda = 10): 0.000148
+
+Cost at test theta (with lambda = 10): -0.000073
+
+Cost at test theta (with lambda = 10): 0.000036
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.075947
+
+Cost at test theta (with lambda = 10): -0.005818
+
+Cost at test theta (with lambda = 10): 0.016668
+
+Cost at test theta (with lambda = 10): 0.001277
+
+Cost at test theta (with lambda = 10): 0.000098
+
+Cost at test theta (with lambda = 10): -0.003658
+
+Cost at test theta (with lambda = 10): -0.000280
+
+Cost at test theta (with lambda = 10): -0.000021
+
+Cost at test theta (with lambda = 10): -0.000002
+
+Cost at test theta (with lambda = 10): 0.000803
+
+Cost at test theta (with lambda = 10): 0.000062
+
+Cost at test theta (with lambda = 10): 0.000005
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000176
+
+Cost at test theta (with lambda = 10): -0.000013
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000039
+
+Cost at test theta (with lambda = 10): 0.000003
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.048038
+
+Cost at test theta (with lambda = 10): -0.094353
+
+Cost at test theta (with lambda = 10): 0.006669
+
+Cost at test theta (with lambda = 10): 0.013098
+
+Cost at test theta (with lambda = 10): 0.025726
+
+Cost at test theta (with lambda = 10): -0.000926
+
+Cost at test theta (with lambda = 10): -0.001818
+
+Cost at test theta (with lambda = 10): -0.003571
+
+Cost at test theta (with lambda = 10): -0.007015
+
+Cost at test theta (with lambda = 10): 0.000129
+
+Cost at test theta (with lambda = 10): 0.000252
+
+Cost at test theta (with lambda = 10): 0.000496
+
+Cost at test theta (with lambda = 10): 0.000974
+
+Cost at test theta (with lambda = 10): 0.001913
+
+Cost at test theta (with lambda = 10): -0.000018
+
+Cost at test theta (with lambda = 10): -0.000035
+
+Cost at test theta (with lambda = 10): -0.000069
+
+Cost at test theta (with lambda = 10): -0.000135
+
+Cost at test theta (with lambda = 10): -0.000266
+
+Cost at test theta (with lambda = 10): -0.000521
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.000005
+
+Cost at test theta (with lambda = 10): 0.000010
+
+Cost at test theta (with lambda = 10): 0.000019
+
+Cost at test theta (with lambda = 10): 0.000037
+
+Cost at test theta (with lambda = 10): 0.000072
+
+Cost at test theta (with lambda = 10): 0.000142
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.063589
+
+Cost at test theta (with lambda = 10): 0.323026
+
+Cost at test theta (with lambda = 10): 0.011685
+
+Cost at test theta (with lambda = 10): 0.059359
+
+Cost at test theta (with lambda = 10): 0.301538
+
+Cost at test theta (with lambda = 10): 0.002147
+
+Cost at test theta (with lambda = 10): 0.010908
+
+Cost at test theta (with lambda = 10): 0.055411
+
+Cost at test theta (with lambda = 10): 0.281480
+
+Cost at test theta (with lambda = 10): 0.000395
+
+Cost at test theta (with lambda = 10): 0.002004
+
+Cost at test theta (with lambda = 10): 0.010182
+
+Cost at test theta (with lambda = 10): 0.051725
+
+Cost at test theta (with lambda = 10): 0.262756
+
+Cost at test theta (with lambda = 10): 0.000073
+
+Cost at test theta (with lambda = 10): 0.000368
+
+Cost at test theta (with lambda = 10): 0.001871
+
+Cost at test theta (with lambda = 10): 0.009505
+
+Cost at test theta (with lambda = 10): 0.048284
+
+Cost at test theta (with lambda = 10): 0.245278
+
+Cost at test theta (with lambda = 10): 0.000013
+
+Cost at test theta (with lambda = 10): 0.000068
+
+Cost at test theta (with lambda = 10): 0.000344
+
+Cost at test theta (with lambda = 10): 0.001747
+
+Cost at test theta (with lambda = 10): 0.008873
+
+Cost at test theta (with lambda = 10): 0.045072
+
+Cost at test theta (with lambda = 10): 0.228962
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.077542
+
+Cost at test theta (with lambda = 10): 0.269905
+
+Cost at test theta (with lambda = 10): 0.017376
+
+Cost at test theta (with lambda = 10): 0.060480
+
+Cost at test theta (with lambda = 10): 0.210518
+
+Cost at test theta (with lambda = 10): 0.003894
+
+Cost at test theta (with lambda = 10): 0.013552
+
+Cost at test theta (with lambda = 10): 0.047173
+
+Cost at test theta (with lambda = 10): 0.164197
+
+Cost at test theta (with lambda = 10): 0.000872
+
+Cost at test theta (with lambda = 10): 0.003037
+
+Cost at test theta (with lambda = 10): 0.010570
+
+Cost at test theta (with lambda = 10): 0.036793
+
+Cost at test theta (with lambda = 10): 0.128069
+
+Cost at test theta (with lambda = 10): 0.000196
+
+Cost at test theta (with lambda = 10): 0.000680
+
+Cost at test theta (with lambda = 10): 0.002369
+
+Cost at test theta (with lambda = 10): 0.008245
+
+Cost at test theta (with lambda = 10): 0.028698
+
+Cost at test theta (with lambda = 10): 0.099890
+
+Cost at test theta (with lambda = 10): 0.000044
+
+Cost at test theta (with lambda = 10): 0.000152
+
+Cost at test theta (with lambda = 10): 0.000531
+
+Cost at test theta (with lambda = 10): 0.001847
+
+Cost at test theta (with lambda = 10): 0.006431
+
+Cost at test theta (with lambda = 10): 0.022383
+
+Cost at test theta (with lambda = 10): 0.077911
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.103454
+
+Cost at test theta (with lambda = 10): 0.214254
+
+Cost at test theta (with lambda = 10): 0.030928
+
+Cost at test theta (with lambda = 10): 0.064053
+
+Cost at test theta (with lambda = 10): 0.132655
+
+Cost at test theta (with lambda = 10): 0.009246
+
+Cost at test theta (with lambda = 10): 0.019149
+
+Cost at test theta (with lambda = 10): 0.039659
+
+Cost at test theta (with lambda = 10): 0.082133
+
+Cost at test theta (with lambda = 10): 0.002764
+
+Cost at test theta (with lambda = 10): 0.005725
+
+Cost at test theta (with lambda = 10): 0.011856
+
+Cost at test theta (with lambda = 10): 0.024555
+
+Cost at test theta (with lambda = 10): 0.050853
+
+Cost at test theta (with lambda = 10): 0.000826
+
+Cost at test theta (with lambda = 10): 0.001712
+
+Cost at test theta (with lambda = 10): 0.003545
+
+Cost at test theta (with lambda = 10): 0.007341
+
+Cost at test theta (with lambda = 10): 0.015203
+
+Cost at test theta (with lambda = 10): 0.031486
+
+Cost at test theta (with lambda = 10): 0.000247
+
+Cost at test theta (with lambda = 10): 0.000512
+
+Cost at test theta (with lambda = 10): 0.001060
+
+Cost at test theta (with lambda = 10): 0.002195
+
+Cost at test theta (with lambda = 10): 0.004545
+
+Cost at test theta (with lambda = 10): 0.009413
+
+Cost at test theta (with lambda = 10): 0.019494
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.175216
+
+Cost at test theta (with lambda = 10): 0.262316
+
+Cost at test theta (with lambda = 10): 0.088719
+
+Cost at test theta (with lambda = 10): 0.132821
+
+Cost at test theta (with lambda = 10): 0.198846
+
+Cost at test theta (with lambda = 10): 0.044922
+
+Cost at test theta (with lambda = 10): 0.067253
+
+Cost at test theta (with lambda = 10): 0.100684
+
+Cost at test theta (with lambda = 10): 0.150733
+
+Cost at test theta (with lambda = 10): 0.022746
+
+Cost at test theta (with lambda = 10): 0.034053
+
+Cost at test theta (with lambda = 10): 0.050980
+
+Cost at test theta (with lambda = 10): 0.076322
+
+Cost at test theta (with lambda = 10): 0.114262
+
+Cost at test theta (with lambda = 10): 0.011517
+
+Cost at test theta (with lambda = 10): 0.017242
+
+Cost at test theta (with lambda = 10): 0.025813
+
+Cost at test theta (with lambda = 10): 0.038645
+
+Cost at test theta (with lambda = 10): 0.057855
+
+Cost at test theta (with lambda = 10): 0.086615
+
+Cost at test theta (with lambda = 10): 0.005832
+
+Cost at test theta (with lambda = 10): 0.008730
+
+Cost at test theta (with lambda = 10): 0.013070
+
+Cost at test theta (with lambda = 10): 0.019568
+
+Cost at test theta (with lambda = 10): 0.029294
+
+Cost at test theta (with lambda = 10): 0.043857
+
+Cost at test theta (with lambda = 10): 0.065658
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.213088
+
+Cost at test theta (with lambda = 10): 0.252198
+
+Cost at test theta (with lambda = 10): 0.131215
+
+Cost at test theta (with lambda = 10): 0.155298
+
+Cost at test theta (with lambda = 10): 0.183802
+
+Cost at test theta (with lambda = 10): 0.080800
+
+Cost at test theta (with lambda = 10): 0.095630
+
+Cost at test theta (with lambda = 10): 0.113181
+
+Cost at test theta (with lambda = 10): 0.133955
+
+Cost at test theta (with lambda = 10): 0.049755
+
+Cost at test theta (with lambda = 10): 0.058887
+
+Cost at test theta (with lambda = 10): 0.069695
+
+Cost at test theta (with lambda = 10): 0.082487
+
+Cost at test theta (with lambda = 10): 0.097626
+
+Cost at test theta (with lambda = 10): 0.030638
+
+Cost at test theta (with lambda = 10): 0.036261
+
+Cost at test theta (with lambda = 10): 0.042917
+
+Cost at test theta (with lambda = 10): 0.050794
+
+Cost at test theta (with lambda = 10): 0.060116
+
+Cost at test theta (with lambda = 10): 0.071150
+
+Cost at test theta (with lambda = 10): 0.018866
+
+Cost at test theta (with lambda = 10): 0.022329
+
+Cost at test theta (with lambda = 10): 0.026427
+
+Cost at test theta (with lambda = 10): 0.031278
+
+Cost at test theta (with lambda = 10): 0.037018
+
+Cost at test theta (with lambda = 10): 0.043813
+
+Cost at test theta (with lambda = 10): 0.051854
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.209101
+
+Cost at test theta (with lambda = 10): 0.206665
+
+Cost at test theta (with lambda = 10): 0.126351
+
+Cost at test theta (with lambda = 10): 0.124879
+
+Cost at test theta (with lambda = 10): 0.123424
+
+Cost at test theta (with lambda = 10): 0.076349
+
+Cost at test theta (with lambda = 10): 0.075460
+
+Cost at test theta (with lambda = 10): 0.074580
+
+Cost at test theta (with lambda = 10): 0.073712
+
+Cost at test theta (with lambda = 10): 0.046135
+
+Cost at test theta (with lambda = 10): 0.045597
+
+Cost at test theta (with lambda = 10): 0.045066
+
+Cost at test theta (with lambda = 10): 0.044541
+
+Cost at test theta (with lambda = 10): 0.044022
+
+Cost at test theta (with lambda = 10): 0.027877
+
+Cost at test theta (with lambda = 10): 0.027553
+
+Cost at test theta (with lambda = 10): 0.027232
+
+Cost at test theta (with lambda = 10): 0.026914
+
+Cost at test theta (with lambda = 10): 0.026601
+
+Cost at test theta (with lambda = 10): 0.026291
+
+Cost at test theta (with lambda = 10): 0.016845
+
+Cost at test theta (with lambda = 10): 0.016649
+
+Cost at test theta (with lambda = 10): 0.016455
+
+Cost at test theta (with lambda = 10): 0.016263
+
+Cost at test theta (with lambda = 10): 0.016074
+
+Cost at test theta (with lambda = 10): 0.015887
+
+Cost at test theta (with lambda = 10): 0.015701
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.264915
+
+Cost at test theta (with lambda = 10): 0.173780
+
+Cost at test theta (with lambda = 10): 0.202806
+
+Cost at test theta (with lambda = 10): 0.133038
+
+Cost at test theta (with lambda = 10): 0.087271
+
+Cost at test theta (with lambda = 10): 0.155258
+
+Cost at test theta (with lambda = 10): 0.101847
+
+Cost at test theta (with lambda = 10): 0.066810
+
+Cost at test theta (with lambda = 10): 0.043827
+
+Cost at test theta (with lambda = 10): 0.118858
+
+Cost at test theta (with lambda = 10): 0.077969
+
+Cost at test theta (with lambda = 10): 0.051146
+
+Cost at test theta (with lambda = 10): 0.033551
+
+Cost at test theta (with lambda = 10): 0.022009
+
+Cost at test theta (with lambda = 10): 0.090991
+
+Cost at test theta (with lambda = 10): 0.059689
+
+Cost at test theta (with lambda = 10): 0.039155
+
+Cost at test theta (with lambda = 10): 0.025685
+
+Cost at test theta (with lambda = 10): 0.016849
+
+Cost at test theta (with lambda = 10): 0.011053
+
+Cost at test theta (with lambda = 10): 0.069658
+
+Cost at test theta (with lambda = 10): 0.045695
+
+Cost at test theta (with lambda = 10): 0.029975
+
+Cost at test theta (with lambda = 10): 0.019663
+
+Cost at test theta (with lambda = 10): 0.012899
+
+Cost at test theta (with lambda = 10): 0.008461
+
+Cost at test theta (with lambda = 10): 0.005551
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.320728
+
+Cost at test theta (with lambda = 10): 0.125718
+
+Cost at test theta (with lambda = 10): 0.297264
+
+Cost at test theta (with lambda = 10): 0.116521
+
+Cost at test theta (with lambda = 10): 0.045673
+
+Cost at test theta (with lambda = 10): 0.275516
+
+Cost at test theta (with lambda = 10): 0.107996
+
+Cost at test theta (with lambda = 10): 0.042332
+
+Cost at test theta (with lambda = 10): 0.016593
+
+Cost at test theta (with lambda = 10): 0.255359
+
+Cost at test theta (with lambda = 10): 0.100095
+
+Cost at test theta (with lambda = 10): 0.039235
+
+Cost at test theta (with lambda = 10): 0.015379
+
+Cost at test theta (with lambda = 10): 0.006028
+
+Cost at test theta (with lambda = 10): 0.236677
+
+Cost at test theta (with lambda = 10): 0.092772
+
+Cost at test theta (with lambda = 10): 0.036365
+
+Cost at test theta (with lambda = 10): 0.014254
+
+Cost at test theta (with lambda = 10): 0.005587
+
+Cost at test theta (with lambda = 10): 0.002190
+
+Cost at test theta (with lambda = 10): 0.219362
+
+Cost at test theta (with lambda = 10): 0.085985
+
+Cost at test theta (with lambda = 10): 0.033704
+
+Cost at test theta (with lambda = 10): 0.013211
+
+Cost at test theta (with lambda = 10): 0.005178
+
+Cost at test theta (with lambda = 10): 0.002030
+
+Cost at test theta (with lambda = 10): 0.000796
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.284850
+
+Cost at test theta (with lambda = 10): 0.095363
+
+Cost at test theta (with lambda = 10): 0.234478
+
+Cost at test theta (with lambda = 10): 0.078499
+
+Cost at test theta (with lambda = 10): 0.026280
+
+Cost at test theta (with lambda = 10): 0.193013
+
+Cost at test theta (with lambda = 10): 0.064617
+
+Cost at test theta (with lambda = 10): 0.021633
+
+Cost at test theta (with lambda = 10): 0.007242
+
+Cost at test theta (with lambda = 10): 0.158880
+
+Cost at test theta (with lambda = 10): 0.053190
+
+Cost at test theta (with lambda = 10): 0.017807
+
+Cost at test theta (with lambda = 10): 0.005962
+
+Cost at test theta (with lambda = 10): 0.001996
+
+Cost at test theta (with lambda = 10): 0.130784
+
+Cost at test theta (with lambda = 10): 0.043784
+
+Cost at test theta (with lambda = 10): 0.014658
+
+Cost at test theta (with lambda = 10): 0.004907
+
+Cost at test theta (with lambda = 10): 0.001643
+
+Cost at test theta (with lambda = 10): 0.000550
+
+Cost at test theta (with lambda = 10): 0.107656
+
+Cost at test theta (with lambda = 10): 0.036041
+
+Cost at test theta (with lambda = 10): 0.012066
+
+Cost at test theta (with lambda = 10): 0.004040
+
+Cost at test theta (with lambda = 10): 0.001352
+
+Cost at test theta (with lambda = 10): 0.000453
+
+Cost at test theta (with lambda = 10): 0.000152
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.332691
+
+Cost at test theta (with lambda = 10): 0.029596
+
+Cost at test theta (with lambda = 10): 0.319853
+
+Cost at test theta (with lambda = 10): 0.028454
+
+Cost at test theta (with lambda = 10): 0.002531
+
+Cost at test theta (with lambda = 10): 0.307510
+
+Cost at test theta (with lambda = 10): 0.027356
+
+Cost at test theta (with lambda = 10): 0.002434
+
+Cost at test theta (with lambda = 10): 0.000216
+
+Cost at test theta (with lambda = 10): 0.295643
+
+Cost at test theta (with lambda = 10): 0.026300
+
+Cost at test theta (with lambda = 10): 0.002340
+
+Cost at test theta (with lambda = 10): 0.000208
+
+Cost at test theta (with lambda = 10): 0.000019
+
+Cost at test theta (with lambda = 10): 0.284234
+
+Cost at test theta (with lambda = 10): 0.025285
+
+Cost at test theta (with lambda = 10): 0.002249
+
+Cost at test theta (with lambda = 10): 0.000200
+
+Cost at test theta (with lambda = 10): 0.000018
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.273265
+
+Cost at test theta (with lambda = 10): 0.024309
+
+Cost at test theta (with lambda = 10): 0.002163
+
+Cost at test theta (with lambda = 10): 0.000192
+
+Cost at test theta (with lambda = 10): 0.000017
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.324715
+
+Cost at test theta (with lambda = 10): 0.004300
+
+Cost at test theta (with lambda = 10): 0.304699
+
+Cost at test theta (with lambda = 10): 0.004035
+
+Cost at test theta (with lambda = 10): 0.000053
+
+Cost at test theta (with lambda = 10): 0.285918
+
+Cost at test theta (with lambda = 10): 0.003786
+
+Cost at test theta (with lambda = 10): 0.000050
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): 0.268294
+
+Cost at test theta (with lambda = 10): 0.003553
+
+Cost at test theta (with lambda = 10): 0.000047
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.251756
+
+Cost at test theta (with lambda = 10): 0.003334
+
+Cost at test theta (with lambda = 10): 0.000044
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.236238
+
+Cost at test theta (with lambda = 10): 0.003129
+
+Cost at test theta (with lambda = 10): 0.000041
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.298803
+
+Cost at test theta (with lambda = 10): -0.028584
+
+Cost at test theta (with lambda = 10): 0.258010
+
+Cost at test theta (with lambda = 10): -0.024682
+
+Cost at test theta (with lambda = 10): 0.002361
+
+Cost at test theta (with lambda = 10): 0.222787
+
+Cost at test theta (with lambda = 10): -0.021312
+
+Cost at test theta (with lambda = 10): 0.002039
+
+Cost at test theta (with lambda = 10): -0.000195
+
+Cost at test theta (with lambda = 10): 0.192372
+
+Cost at test theta (with lambda = 10): -0.018403
+
+Cost at test theta (with lambda = 10): 0.001760
+
+Cost at test theta (with lambda = 10): -0.000168
+
+Cost at test theta (with lambda = 10): 0.000016
+
+Cost at test theta (with lambda = 10): 0.166109
+
+Cost at test theta (with lambda = 10): -0.015890
+
+Cost at test theta (with lambda = 10): 0.001520
+
+Cost at test theta (with lambda = 10): -0.000145
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.143432
+
+Cost at test theta (with lambda = 10): -0.013721
+
+Cost at test theta (with lambda = 10): 0.001313
+
+Cost at test theta (with lambda = 10): -0.000126
+
+Cost at test theta (with lambda = 10): 0.000012
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.310762
+
+Cost at test theta (with lambda = 10): -0.071586
+
+Cost at test theta (with lambda = 10): 0.279077
+
+Cost at test theta (with lambda = 10): -0.064287
+
+Cost at test theta (with lambda = 10): 0.014809
+
+Cost at test theta (with lambda = 10): 0.250622
+
+Cost at test theta (with lambda = 10): -0.057733
+
+Cost at test theta (with lambda = 10): 0.013299
+
+Cost at test theta (with lambda = 10): -0.003064
+
+Cost at test theta (with lambda = 10): 0.225069
+
+Cost at test theta (with lambda = 10): -0.051846
+
+Cost at test theta (with lambda = 10): 0.011943
+
+Cost at test theta (with lambda = 10): -0.002751
+
+Cost at test theta (with lambda = 10): 0.000634
+
+Cost at test theta (with lambda = 10): 0.202121
+
+Cost at test theta (with lambda = 10): -0.046560
+
+Cost at test theta (with lambda = 10): 0.010725
+
+Cost at test theta (with lambda = 10): -0.002471
+
+Cost at test theta (with lambda = 10): 0.000569
+
+Cost at test theta (with lambda = 10): -0.000131
+
+Cost at test theta (with lambda = 10): 0.181513
+
+Cost at test theta (with lambda = 10): -0.041813
+
+Cost at test theta (with lambda = 10): 0.009632
+
+Cost at test theta (with lambda = 10): -0.002219
+
+Cost at test theta (with lambda = 10): 0.000511
+
+Cost at test theta (with lambda = 10): -0.000118
+
+Cost at test theta (with lambda = 10): 0.000027
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.294817
+
+Cost at test theta (with lambda = 10): -0.127237
+
+Cost at test theta (with lambda = 10): 0.251172
+
+Cost at test theta (with lambda = 10): -0.108401
+
+Cost at test theta (with lambda = 10): 0.046784
+
+Cost at test theta (with lambda = 10): 0.213988
+
+Cost at test theta (with lambda = 10): -0.092353
+
+Cost at test theta (with lambda = 10): 0.039858
+
+Cost at test theta (with lambda = 10): -0.017202
+
+Cost at test theta (with lambda = 10): 0.182310
+
+Cost at test theta (with lambda = 10): -0.078681
+
+Cost at test theta (with lambda = 10): 0.033957
+
+Cost at test theta (with lambda = 10): -0.014655
+
+Cost at test theta (with lambda = 10): 0.006325
+
+Cost at test theta (with lambda = 10): 0.155320
+
+Cost at test theta (with lambda = 10): -0.067033
+
+Cost at test theta (with lambda = 10): 0.028930
+
+Cost at test theta (with lambda = 10): -0.012486
+
+Cost at test theta (with lambda = 10): 0.005389
+
+Cost at test theta (with lambda = 10): -0.002326
+
+Cost at test theta (with lambda = 10): 0.132327
+
+Cost at test theta (with lambda = 10): -0.057110
+
+Cost at test theta (with lambda = 10): 0.024648
+
+Cost at test theta (with lambda = 10): -0.010637
+
+Cost at test theta (with lambda = 10): 0.004591
+
+Cost at test theta (with lambda = 10): -0.001981
+
+Cost at test theta (with lambda = 10): 0.000855
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.286844
+
+Cost at test theta (with lambda = 10): -0.180359
+
+Cost at test theta (with lambda = 10): 0.237770
+
+Cost at test theta (with lambda = 10): -0.149503
+
+Cost at test theta (with lambda = 10): 0.094003
+
+Cost at test theta (with lambda = 10): 0.197093
+
+Cost at test theta (with lambda = 10): -0.123926
+
+Cost at test theta (with lambda = 10): 0.077921
+
+Cost at test theta (with lambda = 10): -0.048994
+
+Cost at test theta (with lambda = 10): 0.163374
+
+Cost at test theta (with lambda = 10): -0.102725
+
+Cost at test theta (with lambda = 10): 0.064590
+
+Cost at test theta (with lambda = 10): -0.040612
+
+Cost at test theta (with lambda = 10): 0.025536
+
+Cost at test theta (with lambda = 10): 0.135424
+
+Cost at test theta (with lambda = 10): -0.085151
+
+Cost at test theta (with lambda = 10): 0.053540
+
+Cost at test theta (with lambda = 10): -0.033664
+
+Cost at test theta (with lambda = 10): 0.021167
+
+Cost at test theta (with lambda = 10): -0.013309
+
+Cost at test theta (with lambda = 10): 0.112256
+
+Cost at test theta (with lambda = 10): -0.070583
+
+Cost at test theta (with lambda = 10): 0.044380
+
+Cost at test theta (with lambda = 10): -0.027905
+
+Cost at test theta (with lambda = 10): 0.017546
+
+Cost at test theta (with lambda = 10): -0.011032
+
+Cost at test theta (with lambda = 10): 0.006937
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.274881
+
+Cost at test theta (with lambda = 10): -0.193007
+
+Cost at test theta (with lambda = 10): 0.218352
+
+Cost at test theta (with lambda = 10): -0.153315
+
+Cost at test theta (with lambda = 10): 0.107649
+
+Cost at test theta (with lambda = 10): 0.173448
+
+Cost at test theta (with lambda = 10): -0.121786
+
+Cost at test theta (with lambda = 10): 0.085511
+
+Cost at test theta (with lambda = 10): -0.060041
+
+Cost at test theta (with lambda = 10): 0.137778
+
+Cost at test theta (with lambda = 10): -0.096740
+
+Cost at test theta (with lambda = 10): 0.067926
+
+Cost at test theta (with lambda = 10): -0.047694
+
+Cost at test theta (with lambda = 10): 0.033488
+
+Cost at test theta (with lambda = 10): 0.109444
+
+Cost at test theta (with lambda = 10): -0.076846
+
+Cost at test theta (with lambda = 10): 0.053957
+
+Cost at test theta (with lambda = 10): -0.037886
+
+Cost at test theta (with lambda = 10): 0.026601
+
+Cost at test theta (with lambda = 10): -0.018678
+
+Cost at test theta (with lambda = 10): 0.086937
+
+Cost at test theta (with lambda = 10): -0.061042
+
+Cost at test theta (with lambda = 10): 0.042861
+
+Cost at test theta (with lambda = 10): -0.030094
+
+Cost at test theta (with lambda = 10): 0.021131
+
+Cost at test theta (with lambda = 10): -0.014837
+
+Cost at test theta (with lambda = 10): 0.010418
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.205115
+
+Cost at test theta (with lambda = 10): -0.256246
+
+Cost at test theta (with lambda = 10): 0.121580
+
+Cost at test theta (with lambda = 10): -0.151887
+
+Cost at test theta (with lambda = 10): 0.189750
+
+Cost at test theta (with lambda = 10): 0.072065
+
+Cost at test theta (with lambda = 10): -0.090030
+
+Cost at test theta (with lambda = 10): 0.112473
+
+Cost at test theta (with lambda = 10): -0.140510
+
+Cost at test theta (with lambda = 10): 0.042716
+
+Cost at test theta (with lambda = 10): -0.053364
+
+Cost at test theta (with lambda = 10): 0.066667
+
+Cost at test theta (with lambda = 10): -0.083286
+
+Cost at test theta (with lambda = 10): 0.104048
+
+Cost at test theta (with lambda = 10): 0.025319
+
+Cost at test theta (with lambda = 10): -0.031631
+
+Cost at test theta (with lambda = 10): 0.039516
+
+Cost at test theta (with lambda = 10): -0.049367
+
+Cost at test theta (with lambda = 10): 0.061673
+
+Cost at test theta (with lambda = 10): -0.077047
+
+Cost at test theta (with lambda = 10): 0.015008
+
+Cost at test theta (with lambda = 10): -0.018749
+
+Cost at test theta (with lambda = 10): 0.023423
+
+Cost at test theta (with lambda = 10): -0.029262
+
+Cost at test theta (with lambda = 10): 0.036556
+
+Cost at test theta (with lambda = 10): -0.045669
+
+Cost at test theta (with lambda = 10): 0.057054
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.179203
+
+Cost at test theta (with lambda = 10): -0.205655
+
+Cost at test theta (with lambda = 10): 0.092802
+
+Cost at test theta (with lambda = 10): -0.106500
+
+Cost at test theta (with lambda = 10): 0.122221
+
+Cost at test theta (with lambda = 10): 0.048058
+
+Cost at test theta (with lambda = 10): -0.055152
+
+Cost at test theta (with lambda = 10): 0.063293
+
+Cost at test theta (with lambda = 10): -0.072636
+
+Cost at test theta (with lambda = 10): 0.024888
+
+Cost at test theta (with lambda = 10): -0.028561
+
+Cost at test theta (with lambda = 10): 0.032777
+
+Cost at test theta (with lambda = 10): -0.037615
+
+Cost at test theta (with lambda = 10): 0.043167
+
+Cost at test theta (with lambda = 10): 0.012888
+
+Cost at test theta (with lambda = 10): -0.014791
+
+Cost at test theta (with lambda = 10): 0.016974
+
+Cost at test theta (with lambda = 10): -0.019479
+
+Cost at test theta (with lambda = 10): 0.022355
+
+Cost at test theta (with lambda = 10): -0.025654
+
+Cost at test theta (with lambda = 10): 0.006674
+
+Cost at test theta (with lambda = 10): -0.007659
+
+Cost at test theta (with lambda = 10): 0.008790
+
+Cost at test theta (with lambda = 10): -0.010088
+
+Cost at test theta (with lambda = 10): 0.011577
+
+Cost at test theta (with lambda = 10): -0.013285
+
+Cost at test theta (with lambda = 10): 0.015246
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.161260
+
+Cost at test theta (with lambda = 10): -0.144944
+
+Cost at test theta (with lambda = 10): 0.075149
+
+Cost at test theta (with lambda = 10): -0.067546
+
+Cost at test theta (with lambda = 10): 0.060711
+
+Cost at test theta (with lambda = 10): 0.035020
+
+Cost at test theta (with lambda = 10): -0.031477
+
+Cost at test theta (with lambda = 10): 0.028292
+
+Cost at test theta (with lambda = 10): -0.025430
+
+Cost at test theta (with lambda = 10): 0.016320
+
+Cost at test theta (with lambda = 10): -0.014669
+
+Cost at test theta (with lambda = 10): 0.013184
+
+Cost at test theta (with lambda = 10): -0.011850
+
+Cost at test theta (with lambda = 10): 0.010651
+
+Cost at test theta (with lambda = 10): 0.007605
+
+Cost at test theta (with lambda = 10): -0.006836
+
+Cost at test theta (with lambda = 10): 0.006144
+
+Cost at test theta (with lambda = 10): -0.005522
+
+Cost at test theta (with lambda = 10): 0.004964
+
+Cost at test theta (with lambda = 10): -0.004461
+
+Cost at test theta (with lambda = 10): 0.003544
+
+Cost at test theta (with lambda = 10): -0.003186
+
+Cost at test theta (with lambda = 10): 0.002863
+
+Cost at test theta (with lambda = 10): -0.002574
+
+Cost at test theta (with lambda = 10): 0.002313
+
+Cost at test theta (with lambda = 10): -0.002079
+
+Cost at test theta (with lambda = 10): 0.001869
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.121396
+
+Cost at test theta (with lambda = 10): -0.200595
+
+Cost at test theta (with lambda = 10): 0.042587
+
+Cost at test theta (with lambda = 10): -0.070371
+
+Cost at test theta (with lambda = 10): 0.116281
+
+Cost at test theta (with lambda = 10): 0.014940
+
+Cost at test theta (with lambda = 10): -0.024687
+
+Cost at test theta (with lambda = 10): 0.040793
+
+Cost at test theta (with lambda = 10): -0.067406
+
+Cost at test theta (with lambda = 10): 0.005241
+
+Cost at test theta (with lambda = 10): -0.008660
+
+Cost at test theta (with lambda = 10): 0.014310
+
+Cost at test theta (with lambda = 10): -0.023647
+
+Cost at test theta (with lambda = 10): 0.039074
+
+Cost at test theta (with lambda = 10): 0.001839
+
+Cost at test theta (with lambda = 10): -0.003038
+
+Cost at test theta (with lambda = 10): 0.005020
+
+Cost at test theta (with lambda = 10): -0.008295
+
+Cost at test theta (with lambda = 10): 0.013707
+
+Cost at test theta (with lambda = 10): -0.022650
+
+Cost at test theta (with lambda = 10): 0.000645
+
+Cost at test theta (with lambda = 10): -0.001066
+
+Cost at test theta (with lambda = 10): 0.001761
+
+Cost at test theta (with lambda = 10): -0.002910
+
+Cost at test theta (with lambda = 10): 0.004809
+
+Cost at test theta (with lambda = 10): -0.007946
+
+Cost at test theta (with lambda = 10): 0.013130
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.099467
+
+Cost at test theta (with lambda = 10): -0.266365
+
+Cost at test theta (with lambda = 10): 0.028591
+
+Cost at test theta (with lambda = 10): -0.076564
+
+Cost at test theta (with lambda = 10): 0.205032
+
+Cost at test theta (with lambda = 10): 0.008218
+
+Cost at test theta (with lambda = 10): -0.022008
+
+Cost at test theta (with lambda = 10): 0.058934
+
+Cost at test theta (with lambda = 10): -0.157821
+
+Cost at test theta (with lambda = 10): 0.002362
+
+Cost at test theta (with lambda = 10): -0.006326
+
+Cost at test theta (with lambda = 10): 0.016940
+
+Cost at test theta (with lambda = 10): -0.045364
+
+Cost at test theta (with lambda = 10): 0.121481
+
+Cost at test theta (with lambda = 10): 0.000679
+
+Cost at test theta (with lambda = 10): -0.001818
+
+Cost at test theta (with lambda = 10): 0.004869
+
+Cost at test theta (with lambda = 10): -0.013039
+
+Cost at test theta (with lambda = 10): 0.034919
+
+Cost at test theta (with lambda = 10): -0.093509
+
+Cost at test theta (with lambda = 10): 0.000195
+
+Cost at test theta (with lambda = 10): -0.000523
+
+Cost at test theta (with lambda = 10): 0.001400
+
+Cost at test theta (with lambda = 10): -0.003748
+
+Cost at test theta (with lambda = 10): 0.010037
+
+Cost at test theta (with lambda = 10): -0.026878
+
+Cost at test theta (with lambda = 10): 0.071978
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.029701
+
+Cost at test theta (with lambda = 10): -0.261306
+
+Cost at test theta (with lambda = 10): 0.002549
+
+Cost at test theta (with lambda = 10): -0.022428
+
+Cost at test theta (with lambda = 10): 0.197317
+
+Cost at test theta (with lambda = 10): 0.000219
+
+Cost at test theta (with lambda = 10): -0.001925
+
+Cost at test theta (with lambda = 10): 0.016936
+
+Cost at test theta (with lambda = 10): -0.148998
+
+Cost at test theta (with lambda = 10): 0.000019
+
+Cost at test theta (with lambda = 10): -0.000165
+
+Cost at test theta (with lambda = 10): 0.001454
+
+Cost at test theta (with lambda = 10): -0.012788
+
+Cost at test theta (with lambda = 10): 0.112511
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): -0.000014
+
+Cost at test theta (with lambda = 10): 0.000125
+
+Cost at test theta (with lambda = 10): -0.001098
+
+Cost at test theta (with lambda = 10): 0.009657
+
+Cost at test theta (with lambda = 10): -0.084960
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.000011
+
+Cost at test theta (with lambda = 10): -0.000094
+
+Cost at test theta (with lambda = 10): 0.000829
+
+Cost at test theta (with lambda = 10): -0.007292
+
+Cost at test theta (with lambda = 10): 0.064155
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.051626
+
+Cost at test theta (with lambda = 10): -0.200595
+
+Cost at test theta (with lambda = 10): 0.007702
+
+Cost at test theta (with lambda = 10): -0.029927
+
+Cost at test theta (with lambda = 10): 0.116281
+
+Cost at test theta (with lambda = 10): 0.001149
+
+Cost at test theta (with lambda = 10): -0.004465
+
+Cost at test theta (with lambda = 10): 0.017348
+
+Cost at test theta (with lambda = 10): -0.067406
+
+Cost at test theta (with lambda = 10): 0.000171
+
+Cost at test theta (with lambda = 10): -0.000666
+
+Cost at test theta (with lambda = 10): 0.002588
+
+Cost at test theta (with lambda = 10): -0.010056
+
+Cost at test theta (with lambda = 10): 0.039074
+
+Cost at test theta (with lambda = 10): 0.000026
+
+Cost at test theta (with lambda = 10): -0.000099
+
+Cost at test theta (with lambda = 10): 0.000386
+
+Cost at test theta (with lambda = 10): -0.001500
+
+Cost at test theta (with lambda = 10): 0.005829
+
+Cost at test theta (with lambda = 10): -0.022650
+
+Cost at test theta (with lambda = 10): 0.000004
+
+Cost at test theta (with lambda = 10): -0.000015
+
+Cost at test theta (with lambda = 10): 0.000058
+
+Cost at test theta (with lambda = 10): -0.000224
+
+Cost at test theta (with lambda = 10): 0.000870
+
+Cost at test theta (with lambda = 10): -0.003379
+
+Cost at test theta (with lambda = 10): 0.013130
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.046045
+
+Cost at test theta (with lambda = 10): -0.155063
+
+Cost at test theta (with lambda = 10): 0.006127
+
+Cost at test theta (with lambda = 10): 0.020633
+
+Cost at test theta (with lambda = 10): 0.069484
+
+Cost at test theta (with lambda = 10): -0.000815
+
+Cost at test theta (with lambda = 10): -0.002745
+
+Cost at test theta (with lambda = 10): -0.009245
+
+Cost at test theta (with lambda = 10): -0.031136
+
+Cost at test theta (with lambda = 10): 0.000108
+
+Cost at test theta (with lambda = 10): 0.000365
+
+Cost at test theta (with lambda = 10): 0.001230
+
+Cost at test theta (with lambda = 10): 0.004143
+
+Cost at test theta (with lambda = 10): 0.013952
+
+Cost at test theta (with lambda = 10): -0.000014
+
+Cost at test theta (with lambda = 10): -0.000049
+
+Cost at test theta (with lambda = 10): -0.000164
+
+Cost at test theta (with lambda = 10): -0.000551
+
+Cost at test theta (with lambda = 10): -0.001856
+
+Cost at test theta (with lambda = 10): -0.006252
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.000006
+
+Cost at test theta (with lambda = 10): 0.000022
+
+Cost at test theta (with lambda = 10): 0.000073
+
+Cost at test theta (with lambda = 10): 0.000247
+
+Cost at test theta (with lambda = 10): 0.000832
+
+Cost at test theta (with lambda = 10): 0.002801
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.141726
+
+Cost at test theta (with lambda = 10): -0.142415
+
+Cost at test theta (with lambda = 10): 0.058045
+
+Cost at test theta (with lambda = 10): 0.058327
+
+Cost at test theta (with lambda = 10): 0.058611
+
+Cost at test theta (with lambda = 10): -0.023773
+
+Cost at test theta (with lambda = 10): -0.023889
+
+Cost at test theta (with lambda = 10): -0.024005
+
+Cost at test theta (with lambda = 10): -0.024121
+
+Cost at test theta (with lambda = 10): 0.009736
+
+Cost at test theta (with lambda = 10): 0.009784
+
+Cost at test theta (with lambda = 10): 0.009831
+
+Cost at test theta (with lambda = 10): 0.009879
+
+Cost at test theta (with lambda = 10): 0.009927
+
+Cost at test theta (with lambda = 10): -0.003988
+
+Cost at test theta (with lambda = 10): -0.004007
+
+Cost at test theta (with lambda = 10): -0.004027
+
+Cost at test theta (with lambda = 10): -0.004046
+
+Cost at test theta (with lambda = 10): -0.004066
+
+Cost at test theta (with lambda = 10): -0.004086
+
+Cost at test theta (with lambda = 10): 0.001633
+
+Cost at test theta (with lambda = 10): 0.001641
+
+Cost at test theta (with lambda = 10): 0.001649
+
+Cost at test theta (with lambda = 10): 0.001657
+
+Cost at test theta (with lambda = 10): 0.001665
+
+Cost at test theta (with lambda = 10): 0.001673
+
+Cost at test theta (with lambda = 10): 0.001681
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.135747
+
+Cost at test theta (with lambda = 10): -0.089293
+
+Cost at test theta (with lambda = 10): 0.053251
+
+Cost at test theta (with lambda = 10): 0.035028
+
+Cost at test theta (with lambda = 10): 0.023041
+
+Cost at test theta (with lambda = 10): -0.020889
+
+Cost at test theta (with lambda = 10): -0.013741
+
+Cost at test theta (with lambda = 10): -0.009039
+
+Cost at test theta (with lambda = 10): -0.005946
+
+Cost at test theta (with lambda = 10): 0.008194
+
+Cost at test theta (with lambda = 10): 0.005390
+
+Cost at test theta (with lambda = 10): 0.003546
+
+Cost at test theta (with lambda = 10): 0.002332
+
+Cost at test theta (with lambda = 10): 0.001534
+
+Cost at test theta (with lambda = 10): -0.003215
+
+Cost at test theta (with lambda = 10): -0.002114
+
+Cost at test theta (with lambda = 10): -0.001391
+
+Cost at test theta (with lambda = 10): -0.000915
+
+Cost at test theta (with lambda = 10): -0.000602
+
+Cost at test theta (with lambda = 10): -0.000396
+
+Cost at test theta (with lambda = 10): 0.001261
+
+Cost at test theta (with lambda = 10): 0.000829
+
+Cost at test theta (with lambda = 10): 0.000546
+
+Cost at test theta (with lambda = 10): 0.000359
+
+Cost at test theta (with lambda = 10): 0.000236
+
+Cost at test theta (with lambda = 10): 0.000155
+
+Cost at test theta (with lambda = 10): 0.000102
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.257340
+
+Cost at test theta (with lambda = 10): -0.089293
+
+Cost at test theta (with lambda = 10): 0.191373
+
+Cost at test theta (with lambda = 10): 0.066404
+
+Cost at test theta (with lambda = 10): 0.023041
+
+Cost at test theta (with lambda = 10): -0.142317
+
+Cost at test theta (with lambda = 10): -0.049382
+
+Cost at test theta (with lambda = 10): -0.017135
+
+Cost at test theta (with lambda = 10): -0.005946
+
+Cost at test theta (with lambda = 10): 0.105835
+
+Cost at test theta (with lambda = 10): 0.036723
+
+Cost at test theta (with lambda = 10): 0.012743
+
+Cost at test theta (with lambda = 10): 0.004421
+
+Cost at test theta (with lambda = 10): 0.001534
+
+Cost at test theta (with lambda = 10): -0.078705
+
+Cost at test theta (with lambda = 10): -0.027310
+
+Cost at test theta (with lambda = 10): -0.009476
+
+Cost at test theta (with lambda = 10): -0.003288
+
+Cost at test theta (with lambda = 10): -0.001141
+
+Cost at test theta (with lambda = 10): -0.000396
+
+Cost at test theta (with lambda = 10): 0.058530
+
+Cost at test theta (with lambda = 10): 0.020309
+
+Cost at test theta (with lambda = 10): 0.007047
+
+Cost at test theta (with lambda = 10): 0.002445
+
+Cost at test theta (with lambda = 10): 0.000848
+
+Cost at test theta (with lambda = 10): 0.000294
+
+Cost at test theta (with lambda = 10): 0.000102
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.241394
+
+Cost at test theta (with lambda = 10): 0.014419
+
+Cost at test theta (with lambda = 10): 0.168392
+
+Cost at test theta (with lambda = 10): -0.010058
+
+Cost at test theta (with lambda = 10): 0.000601
+
+Cost at test theta (with lambda = 10): -0.117467
+
+Cost at test theta (with lambda = 10): 0.007016
+
+Cost at test theta (with lambda = 10): -0.000419
+
+Cost at test theta (with lambda = 10): 0.000025
+
+Cost at test theta (with lambda = 10): 0.081942
+
+Cost at test theta (with lambda = 10): -0.004894
+
+Cost at test theta (with lambda = 10): 0.000292
+
+Cost at test theta (with lambda = 10): -0.000017
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): -0.057161
+
+Cost at test theta (with lambda = 10): 0.003414
+
+Cost at test theta (with lambda = 10): -0.000204
+
+Cost at test theta (with lambda = 10): 0.000012
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.039875
+
+Cost at test theta (with lambda = 10): -0.002382
+
+Cost at test theta (with lambda = 10): 0.000142
+
+Cost at test theta (with lambda = 10): -0.000008
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.261326
+
+Cost at test theta (with lambda = 10): 0.100422
+
+Cost at test theta (with lambda = 10): 0.197348
+
+Cost at test theta (with lambda = 10): -0.075837
+
+Cost at test theta (with lambda = 10): 0.029143
+
+Cost at test theta (with lambda = 10): -0.149034
+
+Cost at test theta (with lambda = 10): 0.057271
+
+Cost at test theta (with lambda = 10): -0.022008
+
+Cost at test theta (with lambda = 10): 0.008457
+
+Cost at test theta (with lambda = 10): 0.112547
+
+Cost at test theta (with lambda = 10): -0.043250
+
+Cost at test theta (with lambda = 10): 0.016620
+
+Cost at test theta (with lambda = 10): -0.006387
+
+Cost at test theta (with lambda = 10): 0.002454
+
+Cost at test theta (with lambda = 10): -0.084993
+
+Cost at test theta (with lambda = 10): 0.032661
+
+Cost at test theta (with lambda = 10): -0.012551
+
+Cost at test theta (with lambda = 10): 0.004823
+
+Cost at test theta (with lambda = 10): -0.001853
+
+Cost at test theta (with lambda = 10): 0.000712
+
+Cost at test theta (with lambda = 10): 0.064185
+
+Cost at test theta (with lambda = 10): -0.024665
+
+Cost at test theta (with lambda = 10): 0.009478
+
+Cost at test theta (with lambda = 10): -0.003642
+
+Cost at test theta (with lambda = 10): 0.001400
+
+Cost at test theta (with lambda = 10): -0.000538
+
+Cost at test theta (with lambda = 10): 0.000207
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.241394
+
+Cost at test theta (with lambda = 10): 0.237020
+
+Cost at test theta (with lambda = 10): 0.168392
+
+Cost at test theta (with lambda = 10): -0.165340
+
+Cost at test theta (with lambda = 10): 0.162345
+
+Cost at test theta (with lambda = 10): -0.117467
+
+Cost at test theta (with lambda = 10): 0.115338
+
+Cost at test theta (with lambda = 10): -0.113248
+
+Cost at test theta (with lambda = 10): 0.111196
+
+Cost at test theta (with lambda = 10): 0.081942
+
+Cost at test theta (with lambda = 10): -0.080458
+
+Cost at test theta (with lambda = 10): 0.079000
+
+Cost at test theta (with lambda = 10): -0.077568
+
+Cost at test theta (with lambda = 10): 0.076163
+
+Cost at test theta (with lambda = 10): -0.057161
+
+Cost at test theta (with lambda = 10): 0.056126
+
+Cost at test theta (with lambda = 10): -0.055109
+
+Cost at test theta (with lambda = 10): 0.054110
+
+Cost at test theta (with lambda = 10): -0.053130
+
+Cost at test theta (with lambda = 10): 0.052167
+
+Cost at test theta (with lambda = 10): 0.039875
+
+Cost at test theta (with lambda = 10): -0.039152
+
+Cost at test theta (with lambda = 10): 0.038443
+
+Cost at test theta (with lambda = 10): -0.037746
+
+Cost at test theta (with lambda = 10): 0.037062
+
+Cost at test theta (with lambda = 10): -0.036391
+
+Cost at test theta (with lambda = 10): 0.035731
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.139733
+
+Cost at test theta (with lambda = 10): 0.244609
+
+Cost at test theta (with lambda = 10): 0.056424
+
+Cost at test theta (with lambda = 10): -0.098773
+
+Cost at test theta (with lambda = 10): 0.172907
+
+Cost at test theta (with lambda = 10): -0.022784
+
+Cost at test theta (with lambda = 10): 0.039885
+
+Cost at test theta (with lambda = 10): -0.069820
+
+Cost at test theta (with lambda = 10): 0.122223
+
+Cost at test theta (with lambda = 10): 0.009200
+
+Cost at test theta (with lambda = 10): -0.016105
+
+Cost at test theta (with lambda = 10): 0.028193
+
+Cost at test theta (with lambda = 10): -0.049353
+
+Cost at test theta (with lambda = 10): 0.086395
+
+Cost at test theta (with lambda = 10): -0.003715
+
+Cost at test theta (with lambda = 10): 0.006503
+
+Cost at test theta (with lambda = 10): -0.011384
+
+Cost at test theta (with lambda = 10): 0.019929
+
+Cost at test theta (with lambda = 10): -0.034886
+
+Cost at test theta (with lambda = 10): 0.061070
+
+Cost at test theta (with lambda = 10): 0.001500
+
+Cost at test theta (with lambda = 10): -0.002626
+
+Cost at test theta (with lambda = 10): 0.004597
+
+Cost at test theta (with lambda = 10): -0.008047
+
+Cost at test theta (with lambda = 10): 0.014087
+
+Cost at test theta (with lambda = 10): -0.024660
+
+Cost at test theta (with lambda = 10): 0.043169
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.131760
+
+Cost at test theta (with lambda = 10): 0.317967
+
+Cost at test theta (with lambda = 10): 0.050169
+
+Cost at test theta (with lambda = 10): -0.121069
+
+Cost at test theta (with lambda = 10): 0.292167
+
+Cost at test theta (with lambda = 10): -0.019102
+
+Cost at test theta (with lambda = 10): 0.046098
+
+Cost at test theta (with lambda = 10): -0.111246
+
+Cost at test theta (with lambda = 10): 0.268461
+
+Cost at test theta (with lambda = 10): 0.007273
+
+Cost at test theta (with lambda = 10): -0.017552
+
+Cost at test theta (with lambda = 10): 0.042358
+
+Cost at test theta (with lambda = 10): -0.102219
+
+Cost at test theta (with lambda = 10): 0.246678
+
+Cost at test theta (with lambda = 10): -0.002769
+
+Cost at test theta (with lambda = 10): 0.006683
+
+Cost at test theta (with lambda = 10): -0.016128
+
+Cost at test theta (with lambda = 10): 0.038921
+
+Cost at test theta (with lambda = 10): -0.093925
+
+Cost at test theta (with lambda = 10): 0.226662
+
+Cost at test theta (with lambda = 10): 0.001054
+
+Cost at test theta (with lambda = 10): -0.002545
+
+Cost at test theta (with lambda = 10): 0.006141
+
+Cost at test theta (with lambda = 10): -0.014820
+
+Cost at test theta (with lambda = 10): 0.035763
+
+Cost at test theta (with lambda = 10): -0.086304
+
+Cost at test theta (with lambda = 10): 0.208271
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.175614
+
+Cost at test theta (with lambda = 10): 0.312908
+
+Cost at test theta (with lambda = 10): 0.089123
+
+Cost at test theta (with lambda = 10): -0.158798
+
+Cost at test theta (with lambda = 10): 0.282944
+
+Cost at test theta (with lambda = 10): -0.045229
+
+Cost at test theta (with lambda = 10): 0.080588
+
+Cost at test theta (with lambda = 10): -0.143591
+
+Cost at test theta (with lambda = 10): 0.255849
+
+Cost at test theta (with lambda = 10): 0.022953
+
+Cost at test theta (with lambda = 10): -0.040898
+
+Cost at test theta (with lambda = 10): 0.072871
+
+Cost at test theta (with lambda = 10): -0.129841
+
+Cost at test theta (with lambda = 10): 0.231349
+
+Cost at test theta (with lambda = 10): -0.011649
+
+Cost at test theta (with lambda = 10): 0.020755
+
+Cost at test theta (with lambda = 10): -0.036981
+
+Cost at test theta (with lambda = 10): 0.065893
+
+Cost at test theta (with lambda = 10): -0.117407
+
+Cost at test theta (with lambda = 10): 0.209195
+
+Cost at test theta (with lambda = 10): 0.005911
+
+Cost at test theta (with lambda = 10): -0.010533
+
+Cost at test theta (with lambda = 10): 0.018768
+
+Cost at test theta (with lambda = 10): -0.033440
+
+Cost at test theta (with lambda = 10): 0.059583
+
+Cost at test theta (with lambda = 10): -0.106164
+
+Cost at test theta (with lambda = 10): 0.189162
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.189567
+
+Cost at test theta (with lambda = 10): 0.244609
+
+Cost at test theta (with lambda = 10): 0.103847
+
+Cost at test theta (with lambda = 10): -0.133999
+
+Cost at test theta (with lambda = 10): 0.172907
+
+Cost at test theta (with lambda = 10): -0.056888
+
+Cost at test theta (with lambda = 10): 0.073406
+
+Cost at test theta (with lambda = 10): -0.094720
+
+Cost at test theta (with lambda = 10): 0.122223
+
+Cost at test theta (with lambda = 10): 0.031164
+
+Cost at test theta (with lambda = 10): -0.040213
+
+Cost at test theta (with lambda = 10): 0.051889
+
+Cost at test theta (with lambda = 10): -0.066955
+
+Cost at test theta (with lambda = 10): 0.086395
+
+Cost at test theta (with lambda = 10): -0.017072
+
+Cost at test theta (with lambda = 10): 0.022029
+
+Cost at test theta (with lambda = 10): -0.028425
+
+Cost at test theta (with lambda = 10): 0.036678
+
+Cost at test theta (with lambda = 10): -0.047328
+
+Cost at test theta (with lambda = 10): 0.061070
+
+Cost at test theta (with lambda = 10): 0.009352
+
+Cost at test theta (with lambda = 10): -0.012068
+
+Cost at test theta (with lambda = 10): 0.015572
+
+Cost at test theta (with lambda = 10): -0.020093
+
+Cost at test theta (with lambda = 10): 0.025927
+
+Cost at test theta (with lambda = 10): -0.033455
+
+Cost at test theta (with lambda = 10): 0.043169
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.035681
+
+Cost at test theta (with lambda = 10): 0.269905
+
+Cost at test theta (with lambda = 10): 0.003679
+
+Cost at test theta (with lambda = 10): 0.027830
+
+Cost at test theta (with lambda = 10): 0.210518
+
+Cost at test theta (with lambda = 10): 0.000379
+
+Cost at test theta (with lambda = 10): 0.002870
+
+Cost at test theta (with lambda = 10): 0.021706
+
+Cost at test theta (with lambda = 10): 0.164197
+
+Cost at test theta (with lambda = 10): 0.000039
+
+Cost at test theta (with lambda = 10): 0.000296
+
+Cost at test theta (with lambda = 10): 0.002238
+
+Cost at test theta (with lambda = 10): 0.016930
+
+Cost at test theta (with lambda = 10): 0.128069
+
+Cost at test theta (with lambda = 10): 0.000004
+
+Cost at test theta (with lambda = 10): 0.000031
+
+Cost at test theta (with lambda = 10): 0.000231
+
+Cost at test theta (with lambda = 10): 0.001746
+
+Cost at test theta (with lambda = 10): 0.013205
+
+Cost at test theta (with lambda = 10): 0.099890
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000003
+
+Cost at test theta (with lambda = 10): 0.000024
+
+Cost at test theta (with lambda = 10): 0.000180
+
+Cost at test theta (with lambda = 10): 0.001362
+
+Cost at test theta (with lambda = 10): 0.010300
+
+Cost at test theta (with lambda = 10): 0.077911
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.019734
+
+Cost at test theta (with lambda = 10): 0.317967
+
+Cost at test theta (with lambda = 10): 0.001125
+
+Cost at test theta (with lambda = 10): 0.018133
+
+Cost at test theta (with lambda = 10): 0.292167
+
+Cost at test theta (with lambda = 10): 0.000064
+
+Cost at test theta (with lambda = 10): 0.001034
+
+Cost at test theta (with lambda = 10): 0.016662
+
+Cost at test theta (with lambda = 10): 0.268461
+
+Cost at test theta (with lambda = 10): 0.000004
+
+Cost at test theta (with lambda = 10): 0.000059
+
+Cost at test theta (with lambda = 10): 0.000950
+
+Cost at test theta (with lambda = 10): 0.015310
+
+Cost at test theta (with lambda = 10): 0.246678
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000003
+
+Cost at test theta (with lambda = 10): 0.000054
+
+Cost at test theta (with lambda = 10): 0.000873
+
+Cost at test theta (with lambda = 10): 0.014068
+
+Cost at test theta (with lambda = 10): 0.226662
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000003
+
+Cost at test theta (with lambda = 10): 0.000050
+
+Cost at test theta (with lambda = 10): 0.000802
+
+Cost at test theta (with lambda = 10): 0.012926
+
+Cost at test theta (with lambda = 10): 0.208271
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.036079
+
+Cost at test theta (with lambda = 10): 0.343263
+
+Cost at test theta (with lambda = 10): 0.003762
+
+Cost at test theta (with lambda = 10): -0.035789
+
+Cost at test theta (with lambda = 10): 0.340503
+
+Cost at test theta (with lambda = 10): -0.000392
+
+Cost at test theta (with lambda = 10): 0.003731
+
+Cost at test theta (with lambda = 10): -0.035501
+
+Cost at test theta (with lambda = 10): 0.337765
+
+Cost at test theta (with lambda = 10): 0.000041
+
+Cost at test theta (with lambda = 10): -0.000389
+
+Cost at test theta (with lambda = 10): 0.003701
+
+Cost at test theta (with lambda = 10): -0.035215
+
+Cost at test theta (with lambda = 10): 0.335050
+
+Cost at test theta (with lambda = 10): -0.000004
+
+Cost at test theta (with lambda = 10): 0.000041
+
+Cost at test theta (with lambda = 10): -0.000386
+
+Cost at test theta (with lambda = 10): 0.003672
+
+Cost at test theta (with lambda = 10): -0.034932
+
+Cost at test theta (with lambda = 10): 0.332356
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000004
+
+Cost at test theta (with lambda = 10): 0.000040
+
+Cost at test theta (with lambda = 10): -0.000383
+
+Cost at test theta (with lambda = 10): 0.003642
+
+Cost at test theta (with lambda = 10): -0.034651
+
+Cost at test theta (with lambda = 10): 0.329684
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.028106
+
+Cost at test theta (with lambda = 10): 0.383729
+
+Cost at test theta (with lambda = 10): 0.002283
+
+Cost at test theta (with lambda = 10): -0.031167
+
+Cost at test theta (with lambda = 10): 0.425518
+
+Cost at test theta (with lambda = 10): -0.000185
+
+Cost at test theta (with lambda = 10): 0.002531
+
+Cost at test theta (with lambda = 10): -0.034561
+
+Cost at test theta (with lambda = 10): 0.471856
+
+Cost at test theta (with lambda = 10): 0.000015
+
+Cost at test theta (with lambda = 10): -0.000206
+
+Cost at test theta (with lambda = 10): 0.002807
+
+Cost at test theta (with lambda = 10): -0.038325
+
+Cost at test theta (with lambda = 10): 0.523242
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.000017
+
+Cost at test theta (with lambda = 10): -0.000228
+
+Cost at test theta (with lambda = 10): 0.003113
+
+Cost at test theta (with lambda = 10): -0.042498
+
+Cost at test theta (with lambda = 10): 0.580223
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.000019
+
+Cost at test theta (with lambda = 10): -0.000253
+
+Cost at test theta (with lambda = 10): 0.003452
+
+Cost at test theta (with lambda = 10): -0.047126
+
+Cost at test theta (with lambda = 10): 0.643409
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.099467
+
+Cost at test theta (with lambda = 10): 0.376151
+
+Cost at test theta (with lambda = 10): 0.028591
+
+Cost at test theta (with lambda = 10): 0.108121
+
+Cost at test theta (with lambda = 10): 0.408876
+
+Cost at test theta (with lambda = 10): 0.008218
+
+Cost at test theta (with lambda = 10): 0.031078
+
+Cost at test theta (with lambda = 10): 0.117527
+
+Cost at test theta (with lambda = 10): 0.444448
+
+Cost at test theta (with lambda = 10): 0.002362
+
+Cost at test theta (with lambda = 10): 0.008933
+
+Cost at test theta (with lambda = 10): 0.033782
+
+Cost at test theta (with lambda = 10): 0.127752
+
+Cost at test theta (with lambda = 10): 0.483115
+
+Cost at test theta (with lambda = 10): 0.000679
+
+Cost at test theta (with lambda = 10): 0.002568
+
+Cost at test theta (with lambda = 10): 0.009710
+
+Cost at test theta (with lambda = 10): 0.036721
+
+Cost at test theta (with lambda = 10): 0.138867
+
+Cost at test theta (with lambda = 10): 0.525146
+
+Cost at test theta (with lambda = 10): 0.000195
+
+Cost at test theta (with lambda = 10): 0.000738
+
+Cost at test theta (with lambda = 10): 0.002791
+
+Cost at test theta (with lambda = 10): 0.010555
+
+Cost at test theta (with lambda = 10): 0.039916
+
+Cost at test theta (with lambda = 10): 0.150948
+
+Cost at test theta (with lambda = 10): 0.570834
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.137342
+
+Cost at test theta (with lambda = 10): 0.285082
+
+Cost at test theta (with lambda = 10): 0.054510
+
+Cost at test theta (with lambda = 10): 0.113146
+
+Cost at test theta (with lambda = 10): 0.234859
+
+Cost at test theta (with lambda = 10): 0.021634
+
+Cost at test theta (with lambda = 10): 0.044907
+
+Cost at test theta (with lambda = 10): 0.093213
+
+Cost at test theta (with lambda = 10): 0.193484
+
+Cost at test theta (with lambda = 10): 0.008586
+
+Cost at test theta (with lambda = 10): 0.017823
+
+Cost at test theta (with lambda = 10): 0.036995
+
+Cost at test theta (with lambda = 10): 0.076792
+
+Cost at test theta (with lambda = 10): 0.159398
+
+Cost at test theta (with lambda = 10): 0.003408
+
+Cost at test theta (with lambda = 10): 0.007074
+
+Cost at test theta (with lambda = 10): 0.014683
+
+Cost at test theta (with lambda = 10): 0.030478
+
+Cost at test theta (with lambda = 10): 0.063264
+
+Cost at test theta (with lambda = 10): 0.131317
+
+Cost at test theta (with lambda = 10): 0.001353
+
+Cost at test theta (with lambda = 10): 0.002808
+
+Cost at test theta (with lambda = 10): 0.005828
+
+Cost at test theta (with lambda = 10): 0.012096
+
+Cost at test theta (with lambda = 10): 0.025109
+
+Cost at test theta (with lambda = 10): 0.052118
+
+Cost at test theta (with lambda = 10): 0.108183
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.221061
+
+Cost at test theta (with lambda = 10): 0.307849
+
+Cost at test theta (with lambda = 10): 0.141218
+
+Cost at test theta (with lambda = 10): 0.196660
+
+Cost at test theta (with lambda = 10): 0.273868
+
+Cost at test theta (with lambda = 10): 0.090213
+
+Cost at test theta (with lambda = 10): 0.125630
+
+Cost at test theta (with lambda = 10): 0.174953
+
+Cost at test theta (with lambda = 10): 0.243639
+
+Cost at test theta (with lambda = 10): 0.057630
+
+Cost at test theta (with lambda = 10): 0.080255
+
+Cost at test theta (with lambda = 10): 0.111763
+
+Cost at test theta (with lambda = 10): 0.155641
+
+Cost at test theta (with lambda = 10): 0.216746
+
+Cost at test theta (with lambda = 10): 0.036815
+
+Cost at test theta (with lambda = 10): 0.051269
+
+Cost at test theta (with lambda = 10): 0.071397
+
+Cost at test theta (with lambda = 10): 0.099427
+
+Cost at test theta (with lambda = 10): 0.138462
+
+Cost at test theta (with lambda = 10): 0.192821
+
+Cost at test theta (with lambda = 10): 0.023518
+
+Cost at test theta (with lambda = 10): 0.032751
+
+Cost at test theta (with lambda = 10): 0.045610
+
+Cost at test theta (with lambda = 10): 0.063516
+
+Cost at test theta (with lambda = 10): 0.088452
+
+Cost at test theta (with lambda = 10): 0.123178
+
+Cost at test theta (with lambda = 10): 0.171538
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.284850
+
+Cost at test theta (with lambda = 10): 0.229431
+
+Cost at test theta (with lambda = 10): 0.234478
+
+Cost at test theta (with lambda = 10): 0.188859
+
+Cost at test theta (with lambda = 10): 0.152115
+
+Cost at test theta (with lambda = 10): 0.193013
+
+Cost at test theta (with lambda = 10): 0.155461
+
+Cost at test theta (with lambda = 10): 0.125215
+
+Cost at test theta (with lambda = 10): 0.100854
+
+Cost at test theta (with lambda = 10): 0.158880
+
+Cost at test theta (with lambda = 10): 0.127969
+
+Cost at test theta (with lambda = 10): 0.103072
+
+Cost at test theta (with lambda = 10): 0.083019
+
+Cost at test theta (with lambda = 10): 0.066867
+
+Cost at test theta (with lambda = 10): 0.130784
+
+Cost at test theta (with lambda = 10): 0.105339
+
+Cost at test theta (with lambda = 10): 0.084845
+
+Cost at test theta (with lambda = 10): 0.068338
+
+Cost at test theta (with lambda = 10): 0.055042
+
+Cost at test theta (with lambda = 10): 0.044334
+
+Cost at test theta (with lambda = 10): 0.107656
+
+Cost at test theta (with lambda = 10): 0.086711
+
+Cost at test theta (with lambda = 10): 0.069841
+
+Cost at test theta (with lambda = 10): 0.056253
+
+Cost at test theta (with lambda = 10): 0.045309
+
+Cost at test theta (with lambda = 10): 0.036494
+
+Cost at test theta (with lambda = 10): 0.029394
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.233023
+
+Cost at test theta (with lambda = 10): 0.221843
+
+Cost at test theta (with lambda = 10): 0.156916
+
+Cost at test theta (with lambda = 10): 0.149387
+
+Cost at test theta (with lambda = 10): 0.142219
+
+Cost at test theta (with lambda = 10): 0.105665
+
+Cost at test theta (with lambda = 10): 0.100595
+
+Cost at test theta (with lambda = 10): 0.095769
+
+Cost at test theta (with lambda = 10): 0.091174
+
+Cost at test theta (with lambda = 10): 0.071154
+
+Cost at test theta (with lambda = 10): 0.067740
+
+Cost at test theta (with lambda = 10): 0.064490
+
+Cost at test theta (with lambda = 10): 0.061395
+
+Cost at test theta (with lambda = 10): 0.058450
+
+Cost at test theta (with lambda = 10): 0.047914
+
+Cost at test theta (with lambda = 10): 0.045615
+
+Cost at test theta (with lambda = 10): 0.043427
+
+Cost at test theta (with lambda = 10): 0.041343
+
+Cost at test theta (with lambda = 10): 0.039359
+
+Cost at test theta (with lambda = 10): 0.037471
+
+Cost at test theta (with lambda = 10): 0.032265
+
+Cost at test theta (with lambda = 10): 0.030717
+
+Cost at test theta (with lambda = 10): 0.029243
+
+Cost at test theta (with lambda = 10): 0.027840
+
+Cost at test theta (with lambda = 10): 0.026504
+
+Cost at test theta (with lambda = 10): 0.025233
+
+Cost at test theta (with lambda = 10): 0.024022
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.370580
+
+Cost at test theta (with lambda = 10): 0.034656
+
+Cost at test theta (with lambda = 10): 0.396854
+
+Cost at test theta (with lambda = 10): 0.037114
+
+Cost at test theta (with lambda = 10): 0.003471
+
+Cost at test theta (with lambda = 10): 0.424991
+
+Cost at test theta (with lambda = 10): 0.039745
+
+Cost at test theta (with lambda = 10): 0.003717
+
+Cost at test theta (with lambda = 10): 0.000348
+
+Cost at test theta (with lambda = 10): 0.455123
+
+Cost at test theta (with lambda = 10): 0.042563
+
+Cost at test theta (with lambda = 10): 0.003980
+
+Cost at test theta (with lambda = 10): 0.000372
+
+Cost at test theta (with lambda = 10): 0.000035
+
+Cost at test theta (with lambda = 10): 0.487391
+
+Cost at test theta (with lambda = 10): 0.045581
+
+Cost at test theta (with lambda = 10): 0.004263
+
+Cost at test theta (with lambda = 10): 0.000399
+
+Cost at test theta (with lambda = 10): 0.000037
+
+Cost at test theta (with lambda = 10): 0.000003
+
+Cost at test theta (with lambda = 10): 0.521947
+
+Cost at test theta (with lambda = 10): 0.048812
+
+Cost at test theta (with lambda = 10): 0.004565
+
+Cost at test theta (with lambda = 10): 0.000427
+
+Cost at test theta (with lambda = 10): 0.000040
+
+Cost at test theta (with lambda = 10): 0.000004
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.016146
+
+Cost at test theta (with lambda = 10): -0.200595
+
+Cost at test theta (with lambda = 10): 0.000753
+
+Cost at test theta (with lambda = 10): 0.009360
+
+Cost at test theta (with lambda = 10): 0.116281
+
+Cost at test theta (with lambda = 10): -0.000035
+
+Cost at test theta (with lambda = 10): -0.000437
+
+Cost at test theta (with lambda = 10): -0.005426
+
+Cost at test theta (with lambda = 10): -0.067406
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.000020
+
+Cost at test theta (with lambda = 10): 0.000253
+
+Cost at test theta (with lambda = 10): 0.003145
+
+Cost at test theta (with lambda = 10): 0.039074
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): -0.000012
+
+Cost at test theta (with lambda = 10): -0.000147
+
+Cost at test theta (with lambda = 10): -0.001823
+
+Cost at test theta (with lambda = 10): -0.022650
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): 0.000007
+
+Cost at test theta (with lambda = 10): 0.000085
+
+Cost at test theta (with lambda = 10): 0.001057
+
+Cost at test theta (with lambda = 10): 0.013130
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.081926
+
+Cost at test theta (with lambda = 10): -0.220832
+
+Cost at test theta (with lambda = 10): 0.019396
+
+Cost at test theta (with lambda = 10): 0.052282
+
+Cost at test theta (with lambda = 10): 0.140926
+
+Cost at test theta (with lambda = 10): -0.004592
+
+Cost at test theta (with lambda = 10): -0.012378
+
+Cost at test theta (with lambda = 10): -0.033364
+
+Cost at test theta (with lambda = 10): -0.089933
+
+Cost at test theta (with lambda = 10): 0.001087
+
+Cost at test theta (with lambda = 10): 0.002930
+
+Cost at test theta (with lambda = 10): 0.007899
+
+Cost at test theta (with lambda = 10): 0.021292
+
+Cost at test theta (with lambda = 10): 0.057392
+
+Cost at test theta (with lambda = 10): -0.000257
+
+Cost at test theta (with lambda = 10): -0.000694
+
+Cost at test theta (with lambda = 10): -0.001870
+
+Cost at test theta (with lambda = 10): -0.005041
+
+Cost at test theta (with lambda = 10): -0.013588
+
+Cost at test theta (with lambda = 10): -0.036625
+
+Cost at test theta (with lambda = 10): 0.000061
+
+Cost at test theta (with lambda = 10): 0.000164
+
+Cost at test theta (with lambda = 10): 0.000443
+
+Cost at test theta (with lambda = 10): 0.001193
+
+Cost at test theta (with lambda = 10): 0.003217
+
+Cost at test theta (with lambda = 10): 0.008671
+
+Cost at test theta (with lambda = 10): 0.023373
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.052028
+
+Cost at test theta (with lambda = 10): -0.127237
+
+Cost at test theta (with lambda = 10): 0.007822
+
+Cost at test theta (with lambda = 10): 0.019130
+
+Cost at test theta (with lambda = 10): 0.046784
+
+Cost at test theta (with lambda = 10): -0.001176
+
+Cost at test theta (with lambda = 10): -0.002876
+
+Cost at test theta (with lambda = 10): -0.007034
+
+Cost at test theta (with lambda = 10): -0.017202
+
+Cost at test theta (with lambda = 10): 0.000177
+
+Cost at test theta (with lambda = 10): 0.000432
+
+Cost at test theta (with lambda = 10): 0.001058
+
+Cost at test theta (with lambda = 10): 0.002586
+
+Cost at test theta (with lambda = 10): 0.006325
+
+Cost at test theta (with lambda = 10): -0.000027
+
+Cost at test theta (with lambda = 10): -0.000065
+
+Cost at test theta (with lambda = 10): -0.000159
+
+Cost at test theta (with lambda = 10): -0.000389
+
+Cost at test theta (with lambda = 10): -0.000951
+
+Cost at test theta (with lambda = 10): -0.002326
+
+Cost at test theta (with lambda = 10): 0.000004
+
+Cost at test theta (with lambda = 10): 0.000010
+
+Cost at test theta (with lambda = 10): 0.000024
+
+Cost at test theta (with lambda = 10): 0.000058
+
+Cost at test theta (with lambda = 10): 0.000143
+
+Cost at test theta (with lambda = 10): 0.000350
+
+Cost at test theta (with lambda = 10): 0.000855
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.169635
+
+Cost at test theta (with lambda = 10): -0.104471
+
+Cost at test theta (with lambda = 10): 0.083157
+
+Cost at test theta (with lambda = 10): 0.051213
+
+Cost at test theta (with lambda = 10): 0.031540
+
+Cost at test theta (with lambda = 10): -0.040764
+
+Cost at test theta (with lambda = 10): -0.025105
+
+Cost at test theta (with lambda = 10): -0.015461
+
+Cost at test theta (with lambda = 10): -0.009522
+
+Cost at test theta (with lambda = 10): 0.019983
+
+Cost at test theta (with lambda = 10): 0.012307
+
+Cost at test theta (with lambda = 10): 0.007579
+
+Cost at test theta (with lambda = 10): 0.004668
+
+Cost at test theta (with lambda = 10): 0.002875
+
+Cost at test theta (with lambda = 10): -0.009796
+
+Cost at test theta (with lambda = 10): -0.006033
+
+Cost at test theta (with lambda = 10): -0.003715
+
+Cost at test theta (with lambda = 10): -0.002288
+
+Cost at test theta (with lambda = 10): -0.001409
+
+Cost at test theta (with lambda = 10): -0.000868
+
+Cost at test theta (with lambda = 10): 0.004802
+
+Cost at test theta (with lambda = 10): 0.002957
+
+Cost at test theta (with lambda = 10): 0.001821
+
+Cost at test theta (with lambda = 10): 0.001122
+
+Cost at test theta (with lambda = 10): 0.000691
+
+Cost at test theta (with lambda = 10): 0.000425
+
+Cost at test theta (with lambda = 10): 0.000262
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.161662
+
+Cost at test theta (with lambda = 10): -0.046290
+
+Cost at test theta (with lambda = 10): 0.075524
+
+Cost at test theta (with lambda = 10): 0.021626
+
+Cost at test theta (with lambda = 10): 0.006192
+
+Cost at test theta (with lambda = 10): -0.035282
+
+Cost at test theta (with lambda = 10): -0.010103
+
+Cost at test theta (with lambda = 10): -0.002893
+
+Cost at test theta (with lambda = 10): -0.000828
+
+Cost at test theta (with lambda = 10): 0.016483
+
+Cost at test theta (with lambda = 10): 0.004720
+
+Cost at test theta (with lambda = 10): 0.001351
+
+Cost at test theta (with lambda = 10): 0.000387
+
+Cost at test theta (with lambda = 10): 0.000111
+
+Cost at test theta (with lambda = 10): -0.007700
+
+Cost at test theta (with lambda = 10): -0.002205
+
+Cost at test theta (with lambda = 10): -0.000631
+
+Cost at test theta (with lambda = 10): -0.000181
+
+Cost at test theta (with lambda = 10): -0.000052
+
+Cost at test theta (with lambda = 10): -0.000015
+
+Cost at test theta (with lambda = 10): 0.003597
+
+Cost at test theta (with lambda = 10): 0.001030
+
+Cost at test theta (with lambda = 10): 0.000295
+
+Cost at test theta (with lambda = 10): 0.000084
+
+Cost at test theta (with lambda = 10): 0.000024
+
+Cost at test theta (with lambda = 10): 0.000007
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.099865
+
+Cost at test theta (with lambda = 10): -0.020996
+
+Cost at test theta (with lambda = 10): 0.028820
+
+Cost at test theta (with lambda = 10): 0.006059
+
+Cost at test theta (with lambda = 10): 0.001274
+
+Cost at test theta (with lambda = 10): -0.008317
+
+Cost at test theta (with lambda = 10): -0.001749
+
+Cost at test theta (with lambda = 10): -0.000368
+
+Cost at test theta (with lambda = 10): -0.000077
+
+Cost at test theta (with lambda = 10): 0.002400
+
+Cost at test theta (with lambda = 10): 0.000505
+
+Cost at test theta (with lambda = 10): 0.000106
+
+Cost at test theta (with lambda = 10): 0.000022
+
+Cost at test theta (with lambda = 10): 0.000005
+
+Cost at test theta (with lambda = 10): -0.000693
+
+Cost at test theta (with lambda = 10): -0.000146
+
+Cost at test theta (with lambda = 10): -0.000031
+
+Cost at test theta (with lambda = 10): -0.000006
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000200
+
+Cost at test theta (with lambda = 10): 0.000042
+
+Cost at test theta (with lambda = 10): 0.000009
+
+Cost at test theta (with lambda = 10): 0.000002
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.211496
+
+Cost at test theta (with lambda = 10): -0.023525
+
+Cost at test theta (with lambda = 10): 0.129262
+
+Cost at test theta (with lambda = 10): 0.014378
+
+Cost at test theta (with lambda = 10): 0.001599
+
+Cost at test theta (with lambda = 10): -0.079002
+
+Cost at test theta (with lambda = 10): -0.008787
+
+Cost at test theta (with lambda = 10): -0.000977
+
+Cost at test theta (with lambda = 10): -0.000109
+
+Cost at test theta (with lambda = 10): 0.048285
+
+Cost at test theta (with lambda = 10): 0.005371
+
+Cost at test theta (with lambda = 10): 0.000597
+
+Cost at test theta (with lambda = 10): 0.000066
+
+Cost at test theta (with lambda = 10): 0.000007
+
+Cost at test theta (with lambda = 10): -0.029511
+
+Cost at test theta (with lambda = 10): -0.003282
+
+Cost at test theta (with lambda = 10): -0.000365
+
+Cost at test theta (with lambda = 10): -0.000041
+
+Cost at test theta (with lambda = 10): -0.000005
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.018036
+
+Cost at test theta (with lambda = 10): 0.002006
+
+Cost at test theta (with lambda = 10): 0.000223
+
+Cost at test theta (with lambda = 10): 0.000025
+
+Cost at test theta (with lambda = 10): 0.000003
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.229435
+
+Cost at test theta (with lambda = 10): -0.074116
+
+Cost at test theta (with lambda = 10): 0.152120
+
+Cost at test theta (with lambda = 10): 0.049140
+
+Cost at test theta (with lambda = 10): 0.015874
+
+Cost at test theta (with lambda = 10): -0.100859
+
+Cost at test theta (with lambda = 10): -0.032581
+
+Cost at test theta (with lambda = 10): -0.010525
+
+Cost at test theta (with lambda = 10): -0.003400
+
+Cost at test theta (with lambda = 10): 0.066871
+
+Cost at test theta (with lambda = 10): 0.021602
+
+Cost at test theta (with lambda = 10): 0.006978
+
+Cost at test theta (with lambda = 10): 0.002254
+
+Cost at test theta (with lambda = 10): 0.000728
+
+Cost at test theta (with lambda = 10): -0.044337
+
+Cost at test theta (with lambda = 10): -0.014322
+
+Cost at test theta (with lambda = 10): -0.004627
+
+Cost at test theta (with lambda = 10): -0.001495
+
+Cost at test theta (with lambda = 10): -0.000483
+
+Cost at test theta (with lambda = 10): -0.000156
+
+Cost at test theta (with lambda = 10): 0.029396
+
+Cost at test theta (with lambda = 10): 0.009496
+
+Cost at test theta (with lambda = 10): 0.003068
+
+Cost at test theta (with lambda = 10): 0.000991
+
+Cost at test theta (with lambda = 10): 0.000320
+
+Cost at test theta (with lambda = 10): 0.000103
+
+Cost at test theta (with lambda = 10): 0.000033
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.207506
+
+Cost at test theta (with lambda = 10): -0.144944
+
+Cost at test theta (with lambda = 10): 0.124431
+
+Cost at test theta (with lambda = 10): 0.086916
+
+Cost at test theta (with lambda = 10): 0.060711
+
+Cost at test theta (with lambda = 10): -0.074615
+
+Cost at test theta (with lambda = 10): -0.052119
+
+Cost at test theta (with lambda = 10): -0.036406
+
+Cost at test theta (with lambda = 10): -0.025430
+
+Cost at test theta (with lambda = 10): 0.044743
+
+Cost at test theta (with lambda = 10): 0.031253
+
+Cost at test theta (with lambda = 10): 0.021831
+
+Cost at test theta (with lambda = 10): 0.015249
+
+Cost at test theta (with lambda = 10): 0.010651
+
+Cost at test theta (with lambda = 10): -0.026830
+
+Cost at test theta (with lambda = 10): -0.018741
+
+Cost at test theta (with lambda = 10): -0.013091
+
+Cost at test theta (with lambda = 10): -0.009144
+
+Cost at test theta (with lambda = 10): -0.006387
+
+Cost at test theta (with lambda = 10): -0.004461
+
+Cost at test theta (with lambda = 10): 0.016089
+
+Cost at test theta (with lambda = 10): 0.011238
+
+Cost at test theta (with lambda = 10): 0.007850
+
+Cost at test theta (with lambda = 10): 0.005483
+
+Cost at test theta (with lambda = 10): 0.003830
+
+Cost at test theta (with lambda = 10): 0.002675
+
+Cost at test theta (with lambda = 10): 0.001869
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.251360
+
+Cost at test theta (with lambda = 10): -0.028584
+
+Cost at test theta (with lambda = 10): 0.182583
+
+Cost at test theta (with lambda = 10): 0.020763
+
+Cost at test theta (with lambda = 10): 0.002361
+
+Cost at test theta (with lambda = 10): -0.132625
+
+Cost at test theta (with lambda = 10): -0.015082
+
+Cost at test theta (with lambda = 10): -0.001715
+
+Cost at test theta (with lambda = 10): -0.000195
+
+Cost at test theta (with lambda = 10): 0.096336
+
+Cost at test theta (with lambda = 10): 0.010955
+
+Cost at test theta (with lambda = 10): 0.001246
+
+Cost at test theta (with lambda = 10): 0.000142
+
+Cost at test theta (with lambda = 10): 0.000016
+
+Cost at test theta (with lambda = 10): -0.069976
+
+Cost at test theta (with lambda = 10): -0.007958
+
+Cost at test theta (with lambda = 10): -0.000905
+
+Cost at test theta (with lambda = 10): -0.000103
+
+Cost at test theta (with lambda = 10): -0.000012
+
+Cost at test theta (with lambda = 10): -0.000001
+
+Cost at test theta (with lambda = 10): 0.050830
+
+Cost at test theta (with lambda = 10): 0.005780
+
+Cost at test theta (with lambda = 10): 0.000657
+
+Cost at test theta (with lambda = 10): 0.000075
+
+Cost at test theta (with lambda = 10): 0.000009
+
+Cost at test theta (with lambda = 10): 0.000001
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.287242
+
+Cost at test theta (with lambda = 10): 0.108011
+
+Cost at test theta (with lambda = 10): 0.238431
+
+Cost at test theta (with lambda = 10): -0.089657
+
+Cost at test theta (with lambda = 10): 0.033713
+
+Cost at test theta (with lambda = 10): -0.197914
+
+Cost at test theta (with lambda = 10): 0.074421
+
+Cost at test theta (with lambda = 10): -0.027985
+
+Cost at test theta (with lambda = 10): 0.010523
+
+Cost at test theta (with lambda = 10): 0.164283
+
+Cost at test theta (with lambda = 10): -0.061775
+
+Cost at test theta (with lambda = 10): 0.023229
+
+Cost at test theta (with lambda = 10): -0.008735
+
+Cost at test theta (with lambda = 10): 0.003285
+
+Cost at test theta (with lambda = 10): -0.136366
+
+Cost at test theta (with lambda = 10): 0.051278
+
+Cost at test theta (with lambda = 10): -0.019282
+
+Cost at test theta (with lambda = 10): 0.007251
+
+Cost at test theta (with lambda = 10): -0.002726
+
+Cost at test theta (with lambda = 10): 0.001025
+
+Cost at test theta (with lambda = 10): 0.113193
+
+Cost at test theta (with lambda = 10): -0.042564
+
+Cost at test theta (with lambda = 10): 0.016005
+
+Cost at test theta (with lambda = 10): -0.006018
+
+Cost at test theta (with lambda = 10): 0.002263
+
+Cost at test theta (with lambda = 10): -0.000851
+
+Cost at test theta (with lambda = 10): 0.000320
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.249367
+
+Cost at test theta (with lambda = 10): 0.186428
+
+Cost at test theta (with lambda = 10): 0.179699
+
+Cost at test theta (with lambda = 10): -0.134344
+
+Cost at test theta (with lambda = 10): 0.100436
+
+Cost at test theta (with lambda = 10): -0.129495
+
+Cost at test theta (with lambda = 10): 0.096811
+
+Cost at test theta (with lambda = 10): -0.072376
+
+Cost at test theta (with lambda = 10): 0.054109
+
+Cost at test theta (with lambda = 10): 0.093316
+
+Cost at test theta (with lambda = 10): -0.069764
+
+Cost at test theta (with lambda = 10): 0.052156
+
+Cost at test theta (with lambda = 10): -0.038992
+
+Cost at test theta (with lambda = 10): 0.029151
+
+Cost at test theta (with lambda = 10): -0.067246
+
+Cost at test theta (with lambda = 10): 0.050273
+
+Cost at test theta (with lambda = 10): -0.037585
+
+Cost at test theta (with lambda = 10): 0.028098
+
+Cost at test theta (with lambda = 10): -0.021007
+
+Cost at test theta (with lambda = 10): 0.015705
+
+Cost at test theta (with lambda = 10): 0.048459
+
+Cost at test theta (with lambda = 10): -0.036228
+
+Cost at test theta (with lambda = 10): 0.027084
+
+Cost at test theta (with lambda = 10): -0.020248
+
+Cost at test theta (with lambda = 10): 0.015138
+
+Cost at test theta (with lambda = 10): -0.011317
+
+Cost at test theta (with lambda = 10): 0.008461
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.205513
+
+Cost at test theta (with lambda = 10): 0.171251
+
+Cost at test theta (with lambda = 10): 0.122052
+
+Cost at test theta (with lambda = 10): -0.101704
+
+Cost at test theta (with lambda = 10): 0.084749
+
+Cost at test theta (with lambda = 10): -0.072485
+
+Cost at test theta (with lambda = 10): 0.060401
+
+Cost at test theta (with lambda = 10): -0.050331
+
+Cost at test theta (with lambda = 10): 0.041940
+
+Cost at test theta (with lambda = 10): 0.043048
+
+Cost at test theta (with lambda = 10): -0.035872
+
+Cost at test theta (with lambda = 10): 0.029891
+
+Cost at test theta (with lambda = 10): -0.024908
+
+Cost at test theta (with lambda = 10): 0.020755
+
+Cost at test theta (with lambda = 10): -0.025566
+
+Cost at test theta (with lambda = 10): 0.021304
+
+Cost at test theta (with lambda = 10): -0.017752
+
+Cost at test theta (with lambda = 10): 0.014793
+
+Cost at test theta (with lambda = 10): -0.012326
+
+Cost at test theta (with lambda = 10): 0.010271
+
+Cost at test theta (with lambda = 10): 0.015183
+
+Cost at test theta (with lambda = 10): -0.012652
+
+Cost at test theta (with lambda = 10): 0.010543
+
+Cost at test theta (with lambda = 10): -0.008785
+
+Cost at test theta (with lambda = 10): 0.007321
+
+Cost at test theta (with lambda = 10): -0.006100
+
+Cost at test theta (with lambda = 10): 0.005083
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.167642
+
+Cost at test theta (with lambda = 10): 0.345792
+
+Cost at test theta (with lambda = 10): 0.081214
+
+Cost at test theta (with lambda = 10): -0.167519
+
+Cost at test theta (with lambda = 10): 0.345540
+
+Cost at test theta (with lambda = 10): -0.039344
+
+Cost at test theta (with lambda = 10): 0.081155
+
+Cost at test theta (with lambda = 10): -0.167397
+
+Cost at test theta (with lambda = 10): 0.345288
+
+Cost at test theta (with lambda = 10): 0.019060
+
+Cost at test theta (with lambda = 10): -0.039315
+
+Cost at test theta (with lambda = 10): 0.081095
+
+Cost at test theta (with lambda = 10): -0.167275
+
+Cost at test theta (with lambda = 10): 0.345036
+
+Cost at test theta (with lambda = 10): -0.009234
+
+Cost at test theta (with lambda = 10): 0.019046
+
+Cost at test theta (with lambda = 10): -0.039287
+
+Cost at test theta (with lambda = 10): 0.081036
+
+Cost at test theta (with lambda = 10): -0.167153
+
+Cost at test theta (with lambda = 10): 0.344784
+
+Cost at test theta (with lambda = 10): 0.004473
+
+Cost at test theta (with lambda = 10): -0.009227
+
+Cost at test theta (with lambda = 10): 0.019032
+
+Cost at test theta (with lambda = 10): -0.039258
+
+Cost at test theta (with lambda = 10): 0.080977
+
+Cost at test theta (with lambda = 10): -0.167031
+
+Cost at test theta (with lambda = 10): 0.344532
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): -0.002193
+
+Cost at test theta (with lambda = 10): 0.345792
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): -0.002191
+
+Cost at test theta (with lambda = 10): 0.345540
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): -0.002189
+
+Cost at test theta (with lambda = 10): 0.345288
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): -0.002188
+
+Cost at test theta (with lambda = 10): 0.345036
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): -0.002186
+
+Cost at test theta (with lambda = 10): 0.344784
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000014
+
+Cost at test theta (with lambda = 10): -0.002185
+
+Cost at test theta (with lambda = 10): 0.344532
+
+Cost at test theta (with lambda = 10): 0.346045
+
+Cost at test theta (with lambda = 10): 0.218925
+
+Cost at test theta (with lambda = 10): -0.010593
+
+Cost at test theta (with lambda = 10): 0.138503
+
+Cost at test theta (with lambda = 10): -0.006702
+
+Cost at test theta (with lambda = 10): 0.000324
+
+Cost at test theta (with lambda = 10): 0.087624
+
+Cost at test theta (with lambda = 10): -0.004240
+
+Cost at test theta (with lambda = 10): 0.000205
+
+Cost at test theta (with lambda = 10): -0.000010
+
+Cost at test theta (with lambda = 10): 0.055435
+
+Cost at test theta (with lambda = 10): -0.002682
+
+Cost at test theta (with lambda = 10): 0.000130
+
+Cost at test theta (with lambda = 10): -0.000006
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): 0.035071
+
+Cost at test theta (with lambda = 10): -0.001697
+
+Cost at test theta (with lambda = 10): 0.000082
+
+Cost at test theta (with lambda = 10): -0.000004
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.022188
+
+Cost at test theta (with lambda = 10): -0.001074
+
+Cost at test theta (with lambda = 10): 0.000052
+
+Cost at test theta (with lambda = 10): -0.000003
+
+Cost at test theta (with lambda = 10): 0.000000
+
+Cost at test theta (with lambda = 10): -0.000000
+
+Cost at test theta (with lambda = 10): 0.000000
+Expected cost (approx): 3.16
+Gradient at test theta - first five values only:
+ 0.000000 
+ 0.000000 
+ 0.000000 
+ 0.000000 
+ 0.000000 
+Expected gradients (approx) - first five values only:
+ 0.3460
+ 0.1614
+ 0.1948
+ 0.2269
+ 0.0922
+
+Program paused. Press enter to continue.
