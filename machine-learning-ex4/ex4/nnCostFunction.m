@@ -68,11 +68,28 @@ X = [ones(m, 1) X];
 a1 = X;
 z2 = a1 * Theta1';
 a2 = sigmoid(z2);
-a2 = [ones(length(a2(1,:)), 1) a2'];
-z3 = Theta2 * a2';
+a2 = [ones(rows(a2), 1) a2];
+z3 = a2 * Theta2';
 a3 = sigmoid(z3);
+yNew = [];
+for i = 1:10
+  
+  yNew = [yNew y == i];
+  
+end
 
-a3;
+summation = 0;
+for M = 1:length(a3(:,1))
+  for k = 1:length(a3(1,:))
+    
+    summation += -yNew(M,k)' * log(a3(M,k))' - (1 - yNew(M,k))' * log(1 - a3(M,k))';
+    
+  end
+end
+
+J = summation/m;
+
+
 
 
 
