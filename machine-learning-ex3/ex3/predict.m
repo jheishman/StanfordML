@@ -21,7 +21,28 @@ p = zeros(size(X, 1), 1);
 %       can use max(A, [], 2) to obtain the max for each row.
 %
 
+% Add ones to the X data matrix
+X = [ones(m, 1) X];
 
+size(X);
+
+a1 = X;
+z2 = Theta1 * a1';
+a2 = sigmoid(z2);
+m = size(a2', 1);
+a2 = [ones(m,1) a2'];
+z3 =  a2 * Theta2';
+
+
+rows = z3;
+
+
+for i = 1:length(rows(:,1))
+  
+  [x, ix] = max(rows(i,:));
+  p(i,1) = ix;
+  
+end
 
 
 

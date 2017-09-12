@@ -64,13 +64,15 @@ Theta2_grad = zeros(size(Theta2));
 
 
 
-X = [ones(m, 1) X];
-a1 = X;
+
+
+a1 =  [ones(m, 1) X];
 z2 = a1 * Theta1';
 a2 = sigmoid(z2);
 a2 = [ones(rows(a2), 1) a2];
 z3 = a2 * Theta2';
 a3 = sigmoid(z3);
+
 yNew = [];
 for i = 1:10
   
@@ -89,12 +91,63 @@ end
 
 J = summation/m;
 
+J2 = lambda/(2 * m);
+
+
+Theta1Summation = 0;
+Theta2Summation = 0;
+
+
+for i = 1:length(Theta1(:,1))
+
+  %skip the 1st columns
+  for j = 2:length(Theta1(1,:))
+    
+    Theta1Summation += ((Theta1(i,j))^2);
+    
+  end
+
+end
 
 
 
+for i = 1:length(Theta2(:,1))
+
+  %skip the 1st columns
+  for j = 2:length(Theta2(1,:))
+    
+    Theta2Summation += ((Theta2(i,j))^2);
+    
+  end
+
+end
 
 
+J2 = J2 * (Theta1Summation + Theta2Summation);
 
+
+J = J + J2;
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+for t = 1:m
+    for k = 1:num_labels
+        yk = y(t) == k;
+        delta_3(k) = a3(t, k) - yk;
+    end
+    delta_2 = Theta2' * delta_3' .* sigmoidGradient([1, z2(t, :)])';
+    delta_2 = delta_2(2:end);
+
+    Theta1_grad = Theta1_grad + delta_2 * a1(t, :);
+    Theta2_grad = Theta2_grad + delta_3' * a2(t, :);
+end
+
+Theta1_grad = Theta1_grad / m;
+Theta2_grad = Theta2_grad / m;
+
+
+Theta1_grad(:, 2:end) = Theta1_grad(:, 2:end) + lambda / m * Theta1(:, 2:end);
+Theta2_grad(:, 2:end) = Theta2_grad(:, 2:end) + lambda / m * Theta2(:, 2:end);
 
 
 

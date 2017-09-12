@@ -30,7 +30,7 @@ X = [ones(m, 1) X];
 %       for each row.
 %       
 
-rows = X * all_theta'
+rows = X * all_theta';
 
 
 for i = 1:length(rows(:,1))
@@ -41,7 +41,7 @@ for i = 1:length(rows(:,1))
 end
 
 
-p
+p;
 
 
 
