@@ -17,6 +17,20 @@ X_poly = zeros(numel(X), p);
 
 
 
+for i = 1:length(X(:,1))
+ 
+ X_row = X(i,:);
+ for j = 2:p
+  
+   X_row = [X_row (X_row(1,1).^j)];
+  
+  
+ end
+  X_poly(i, :) = X_row;
+end
+
+
+
 
 
 
