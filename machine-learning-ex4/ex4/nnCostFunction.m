@@ -89,6 +89,15 @@ end
 
 J = summation/m;
 
+size(a1)
+size(z2)
+size(a2)
+size(z3)
+size(a3)
+size(yNew)
+size(Theta1)
+size(Theta2)
+
 
 
 
