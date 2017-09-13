@@ -91,6 +91,7 @@ end
 
 J = summation/m;
 
+<<<<<<< HEAD
 J2 = lambda/(2 * m);
 
 
@@ -109,6 +110,16 @@ for i = 1:length(Theta1(:,1))
 
 end
 
+=======
+size(a1)
+size(z2)
+size(a2)
+size(z3)
+size(a3)
+size(yNew)
+size(Theta1)
+size(Theta2)
+>>>>>>> cdb8e6bf8b129f40a98442e519427d8566cc099b
 
 
 for i = 1:length(Theta2(:,1))
