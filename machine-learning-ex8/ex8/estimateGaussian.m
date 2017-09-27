@@ -22,6 +22,31 @@ sigma2 = zeros(n, 1);
 %
 
 
+for j = 1:n
+    
+  for i = 1:m
+  
+    mu(j,1) += X(i,j); 
+  
+  end
+  
+  mu(j,1) = mu(j,1) ./ m;
+
+  
+end
+
+
+for j = 1:n
+  
+  for i = 1:m
+    
+    sigma2(j,1) = sigma2(j,1) + (X(i,j) - mu(j,1))^2;
+    
+  end
+  
+  sigma2(j,1) = sigma2(j,1) / m;
+  
+end
 
 
 
