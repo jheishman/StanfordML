@@ -36,17 +36,17 @@ for epsilon = min(pval):stepsize:max(pval)
     
     for i = 1:size(pval,1)
     
-      if((pval(i,1) < epsilon) && (yval(i,1) == 1))
+      if((pval(i,1) <= epsilon) && (yval(i,1) == 1))
         
         tp += 1;
       
-     elseif((pval(i,1) < epsilon) && (yval(i,1) == 0))
+     elseif((pval(i,1) <= epsilon) && (yval(i,1) == 0))
         
          fp += 1;
       
       
       
-    elseif((pval(i,1) > epsilon) && (yval(i,1) == 1))
+    elseif((pval(i,1) >= epsilon) && (yval(i,1) == 1))
         
         fn += 1;
         
